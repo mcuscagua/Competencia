@@ -16,6 +16,21 @@ from sklearn.feature_selection import mutual_info_classif, mutual_info_regressio
 from sklearn.feature_selection import SelectKBest, SelectPercentile
 from collections import Counter
 import operator
+import os
+import time
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patheffects as PathEffects
+import seaborn as sns
+from sklearn.datasets import fetch_mldata
+from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+from sklearn.feature_selection import mutual_info_classif, mutual_info_regression
+from sklearn.feature_selection import SelectKBest, SelectPercentile
+from sklearn.model_selection import train_test_split
 
 num_sim_models = 1000
 
@@ -37,8 +52,6 @@ Sort_Val = np.array([x[1]/num_sim_models for x in MI_Freq])
 MutInfoDef = Sort_Var[Sort_Val > 0.5]
 
 # MSE Feature Selection
-
-for i in range(num_sim_models):
 
 roc_values = []
 for feature in X.columns:
