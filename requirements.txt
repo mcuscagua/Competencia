@@ -1,5 +1,8 @@
 # ipykernel
 # jupyter notebook
+mlxtend
+xgboost
+eli5
 pandas
 sklearn
 matplotlib
