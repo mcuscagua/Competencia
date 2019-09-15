@@ -98,3 +98,9 @@ for i in N_feat:
     sfs1 = sfs1.fit(X,Y)
     selected_feat = X.columns[list(sfs1.k_feature_idx_)]
     selected_features = np.concatenate([selected_features, selected_feat.values])
+
+StpFwd_Freq = sorted(Counter(selected_features).items(), key=operator.itemgetter(1), reverse=True)
+Sort_Var = np.array([x[0] for x in StpFwd_Freq])
+Sort_Val = np.array([x[1]/len(selected_features) for x in StpFwd_Freq])
+
+MutInfoDef = Sort_Var[Sort_Val > 0.5]
