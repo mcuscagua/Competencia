@@ -35,10 +35,31 @@ from mpl_toolkits.mplot3d import Axes3D
 from sklearn.feature_selection import mutual_info_classif, mutual_info_regression
 from sklearn.feature_selection import SelectKBest, SelectPercentile
 from sklearn.model_selection import train_test_split
+from sklearn.linear_model import Lasso, LogisticRegression
+from sklearn.feature_selection import SelectFromModel
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import ElasticNet
+from mlxtend.feature_selection import ExhaustiveFeatureSelector as EFS
+
+
 
 num_sim_models = 1000
 
 Categorical = np.array([str(x) for x in X.dtypes.values])
+
+
+# More Functions
+
+def run_randomForests(X_train, X_test, y_train, y_test):
+    rf = RandomForestClassifier(n_estimators=200, random_state=39, max_depth=4, n_jobs=8)
+    rf.fit(X_train, y_train)
+    pred_train = rf.predict_proba(X_train)
+    pred_test = rf.predict_proba(X_test)
+
+    return (roc_auc_score(y_train, pred_train[:,1]), roc_auc_score(y_test, pred_test[:,1]))
+
+
+
 
 # Variables per model
 MutInfoVar = np.array([])
@@ -97,10 +118,27 @@ for i in N_feat:
 
     sfs1 = sfs1.fit(X,Y)
     selected_feat = X.columns[list(sfs1.k_feature_idx_)]
-    selected_features = np.concatenate([selected_features, selected_feat.values])
+    selected_features.append(selected_feat.values)
 
-StpFwd_Freq = sorted(Counter(selected_features).items(), key=operator.itemgetter(1), reverse=True)
-Sort_Var = np.array([x[0] for x in StpFwd_Freq])
-Sort_Val = np.array([x[1]/len(selected_features) for x in StpFwd_Freq])
+SF_Score = []
 
-MutInfoDef = Sort_Var[Sort_Val > 0.5]
+for selected_feat in selected_features:
+    SF_Score.append(run_randomForests(X[selected_feat], Xt[selected_feat], Y, Yt)[1])
+
+SFSDef = selected_features[np.argmax(SF_Score)]
+
+# Lasso
+
+SFM_LR = SelectFromModel(LogisticRegression())
+RL = SFM_LR.fit(X, Y)
+LRDef = X.columns[(SFM_LR.get_support())].values
+
+## Elasticnet Regularization
+
+#SFM_EN = SelectFromModel(ElasticNet())
+#EN = SFM_EN.fit(X, Y)
+#ENDef = X.columns[(SFM_EN.get_support())].values
+
+efs1 = EFS(RandomForestClassifier(random_state=0), n_jobs=8, min_features=1, max_features=12,
+           scoring='roc_auc',print_progress=True, cv=2)
+efs1 = efs1.fit(X, Y)
