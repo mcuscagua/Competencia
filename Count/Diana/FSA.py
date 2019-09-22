@@ -194,4 +194,5 @@ GBTIDef = Sort_Var[Sort_Val > 0.5]
 # Recursive Feature Selection with Gradient Boosted
 sel_ = RFE(GradientBoostingClassifier(), n_features_to_select=len(GBTIDef))
 sel_.fit(X, Y)
-RFSGBDef = X.columns[(sel_.get_support())]0
+RFSGBDef = X.columns[(sel_.get_support())]
+
