@@ -1,0 +1,1286 @@
+Modelo;Median: Mean squared error;Median: R2;Median: Accuray
+Cantidad de variables: 1 Iteracion: 1;4.353854377;-0.005199626;0.75
+Cantidad de variables: 1 Iteracion: 2;4.287480862;-0.006309639;0.75
+Cantidad de variables: 1 Iteracion: 4;4.459288777;-0.045918252;0.75
+Cantidad de variables: 1 Iteracion: 5;4.300133424;0.003740216;0.75
+Cantidad de variables: 1 Iteracion: 7;4.169269867;0.008741205;0.75
+Cantidad de variables: 1 Iteracion: 8;4.147404755;0.017644887;0.75
+Cantidad de variables: 1 Iteracion: 42;4.379685492;-0.007895385;0.75
+Cantidad de variables: 2 Iteracion: 1;4.143189785;0.053368059;0.75
+Cantidad de variables: 2 Iteracion: 2;4.081155625;0.067792061;0.75
+Cantidad de variables: 2 Iteracion: 3;4.101630481;0.033300835;0.75
+Cantidad de variables: 2 Iteracion: 4;3.992404529;0.051590344;0.75
+Cantidad de variables: 2 Iteracion: 6;4.607558031;-0.057579959;0.75
+Cantidad de variables: 2 Iteracion: 7;3.98735371;0.052909225;0.75
+Cantidad de variables: 2 Iteracion: 9;4.130508811;0.050767355;0.75
+Cantidad de variables: 2 Iteracion: 13;4.166519;0.02807407;0.75
+Cantidad de variables: 2 Iteracion: 15;4.182079889;0.037781362;0.75
+Cantidad de variables: 2 Iteracion: 20;4.14756789;0.075849625;0.75
+Cantidad de variables: 2 Iteracion: 22;3.98966817;0.061039776;0.75
+Cantidad de variables: 2 Iteracion: 29;4.149734305;0.028320548;0.75
+Cantidad de variables: 2 Iteracion: 39;4.243651579;0.008957008;0.75
+Cantidad de variables: 2 Iteracion: 53;4.116326534;0.027474336;0.75
+Cantidad de variables: 2 Iteracion: 55;4.259732136;0.007655643;0.75
+Cantidad de variables: 2 Iteracion: 56;4.411294788;-0.047584525;0.75
+Cantidad de variables: 2 Iteracion: 63;4.5496485;-0.059239661;0.75
+Cantidad de variables: 2 Iteracion: 64;4.160653071;0.029090174;0.75
+Cantidad de variables: 2 Iteracion: 71;4.38706284;-0.019064278;0.75
+Cantidad de variables: 2 Iteracion: 83;4.385160609;-0.013550962;0.75
+Cantidad de variables: 2 Iteracion: 85;4.156631496;0.021880411;0.75
+Cantidad de variables: 2 Iteracion: 87;4.189609518;0.02049249;0.75
+Cantidad de variables: 3 Iteracion: 1;4.297067961;-0.005713918;0.75
+Cantidad de variables: 3 Iteracion: 2;3.954918141;0.068447049;0.75
+Cantidad de variables: 3 Iteracion: 3;4.214061657;0.037389279;0.75
+Cantidad de variables: 3 Iteracion: 4;4.306933687;-0.013584822;0.75
+Cantidad de variables: 3 Iteracion: 5;3.953673625;0.0967195;0.75
+Cantidad de variables: 3 Iteracion: 6;4.157286841;0.052918382;0.75
+Cantidad de variables: 3 Iteracion: 7;3.979850241;0.073761116;0.708333333
+Cantidad de variables: 3 Iteracion: 8;3.804278027;0.105887398;0.75
+Cantidad de variables: 3 Iteracion: 9;4.066590399;0.027218154;0.75
+Cantidad de variables: 3 Iteracion: 10;4.071780861;0.052417885;0.75
+Cantidad de variables: 3 Iteracion: 11;3.941146077;0.071913264;0.75
+Cantidad de variables: 3 Iteracion: 13;4.209664437;0.033057385;0.75
+Cantidad de variables: 3 Iteracion: 15;4.126762916;0.042129306;0.75
+Cantidad de variables: 3 Iteracion: 16;3.897585428;0.105200171;0.75
+Cantidad de variables: 3 Iteracion: 17;4.110767273;0.042295382;0.708333333
+Cantidad de variables: 3 Iteracion: 18;3.971647392;0.075024525;0.75
+Cantidad de variables: 3 Iteracion: 20;4.56693078;-0.072275514;0.75
+Cantidad de variables: 3 Iteracion: 21;4.141911166;0.027484708;0.75
+Cantidad de variables: 3 Iteracion: 22;3.960527125;0.066058583;0.75
+Cantidad de variables: 3 Iteracion: 23;4.339481892;-0.013809027;0.75
+Cantidad de variables: 3 Iteracion: 24;3.908569075;0.102929113;0.75
+Cantidad de variables: 3 Iteracion: 27;4.156293073;0.034058072;0.75
+Cantidad de variables: 3 Iteracion: 28;3.849611788;0.094360356;0.75
+Cantidad de variables: 3 Iteracion: 29;3.961144164;0.049360217;0.75
+Cantidad de variables: 3 Iteracion: 30;4.040252295;0.042790197;0.791666667
+Cantidad de variables: 3 Iteracion: 31;4.089286284;0.042019146;0.75
+Cantidad de variables: 3 Iteracion: 34;4.029691436;0.046309066;0.75
+Cantidad de variables: 3 Iteracion: 38;3.930339006;0.111714638;0.75
+Cantidad de variables: 3 Iteracion: 39;3.842283559;0.104504042;0.75
+Cantidad de variables: 3 Iteracion: 40;3.9572114;0.081296436;0.75
+Cantidad de variables: 3 Iteracion: 47;4.457087133;-0.023541863;0.75
+Cantidad de variables: 3 Iteracion: 48;4.083952452;0.041598428;0.75
+Cantidad de variables: 3 Iteracion: 53;4.093417932;0.036172845;0.75
+Cantidad de variables: 3 Iteracion: 54;4.032930809;0.06198689;0.75
+Cantidad de variables: 3 Iteracion: 55;4.50465715;-0.042501563;0.75
+Cantidad de variables: 3 Iteracion: 56;4.086272397;0.030238754;0.75
+Cantidad de variables: 3 Iteracion: 57;4.431777352;-0.051651111;0.75
+Cantidad de variables: 3 Iteracion: 59;4.016542059;0.061286926;0.75
+Cantidad de variables: 3 Iteracion: 63;4.137114533;0.024141993;0.75
+Cantidad de variables: 3 Iteracion: 66;4.195346195;0.008704072;0.75
+Cantidad de variables: 3 Iteracion: 73;3.986537889;0.064395312;0.75
+Cantidad de variables: 3 Iteracion: 76;4.070885645;0.045833923;0.75
+Cantidad de variables: 3 Iteracion: 77;4.489850819;-0.046209164;0.75
+Cantidad de variables: 3 Iteracion: 78;4.176877534;0.025090492;0.75
+Cantidad de variables: 3 Iteracion: 80;4.347125408;-0.026095339;0.75
+Cantidad de variables: 3 Iteracion: 89;4.462640705;-0.032506765;0.75
+Cantidad de variables: 3 Iteracion: 90;4.213243045;0.009876229;0.75
+Cantidad de variables: 3 Iteracion: 95;4.428328189;-0.024765317;0.75
+Cantidad de variables: 3 Iteracion: 96;3.928371697;0.090510495;0.75
+Cantidad de variables: 3 Iteracion: 97;4.248449813;0.00404676;0.75
+Cantidad de variables: 4 Iteracion: 1;4.026782722;0.049091303;0.75
+Cantidad de variables: 4 Iteracion: 2;3.917166368;0.080465555;0.708333333
+Cantidad de variables: 4 Iteracion: 3;4.111693566;0.031482218;0.75
+Cantidad de variables: 4 Iteracion: 4;3.7605376;0.122284312;0.708333333
+Cantidad de variables: 4 Iteracion: 5;4.132575048;0.034279288;0.75
+Cantidad de variables: 4 Iteracion: 6;4.252672472;0.007883147;0.708333333
+Cantidad de variables: 4 Iteracion: 7;4.167272683;0.026210502;0.708333333
+Cantidad de variables: 4 Iteracion: 8;3.905699226;0.089881484;0.708333333
+Cantidad de variables: 4 Iteracion: 9;4.118925717;0.036346595;0.708333333
+Cantidad de variables: 4 Iteracion: 12;3.922828838;0.077009068;0.75
+Cantidad de variables: 4 Iteracion: 13;3.969745407;0.097118578;0.75
+Cantidad de variables: 4 Iteracion: 14;4.555263152;-0.062017616;0.75
+Cantidad de variables: 4 Iteracion: 17;3.893415406;0.101515551;0.75
+Cantidad de variables: 4 Iteracion: 18;4.22602183;0.012648196;0.75
+Cantidad de variables: 4 Iteracion: 19;4.014564115;0.060403726;0.708333333
+Cantidad de variables: 4 Iteracion: 20;3.843087493;0.109522931;0.75
+Cantidad de variables: 4 Iteracion: 21;3.857121796;0.088425455;0.708333333
+Cantidad de variables: 4 Iteracion: 22;3.888250006;0.080099412;0.75
+Cantidad de variables: 4 Iteracion: 23;4.22014936;0.033129653;0.75
+Cantidad de variables: 4 Iteracion: 25;3.936145267;0.091763115;0.75
+Cantidad de variables: 4 Iteracion: 28;4.227614592;0.018850368;0.75
+Cantidad de variables: 4 Iteracion: 30;3.75221138;0.118627962;0.75
+Cantidad de variables: 4 Iteracion: 32;4.19613447;0.02158316;0.75
+Cantidad de variables: 4 Iteracion: 33;3.942311363;0.06441039;0.708333333
+Cantidad de variables: 4 Iteracion: 34;4.275951496;0.002534441;0.75
+Cantidad de variables: 4 Iteracion: 35;4.237834778;-0.007855407;0.75
+Cantidad de variables: 4 Iteracion: 36;3.909454715;0.095327343;0.708333333
+Cantidad de variables: 4 Iteracion: 37;4.024538367;0.057001151;0.75
+Cantidad de variables: 4 Iteracion: 41;4.136151908;0.012425742;0.75
+Cantidad de variables: 4 Iteracion: 43;3.868170358;0.093750762;0.708333333
+Cantidad de variables: 4 Iteracion: 45;3.8638406;0.106555013;0.75
+Cantidad de variables: 4 Iteracion: 47;3.991079133;0.078517413;0.708333333
+Cantidad de variables: 4 Iteracion: 52;4.008064982;0.08522899;0.708333333
+Cantidad de variables: 4 Iteracion: 53;3.773459663;0.11210185;0.708333333
+Cantidad de variables: 4 Iteracion: 54;3.981151312;0.095559023;0.75
+Cantidad de variables: 4 Iteracion: 55;3.901686139;0.087892566;0.75
+Cantidad de variables: 4 Iteracion: 57;3.997338763;0.04479735;0.708333333
+Cantidad de variables: 4 Iteracion: 61;4.028731585;0.034840366;0.75
+Cantidad de variables: 4 Iteracion: 62;4.033925713;0.072788177;0.75
+Cantidad de variables: 4 Iteracion: 63;4.185637122;0.04313971;0.708333333
+Cantidad de variables: 4 Iteracion: 65;4.230854903;-0.001944117;0.75
+Cantidad de variables: 4 Iteracion: 67;3.9520225;0.073992798;0.75
+Cantidad de variables: 4 Iteracion: 68;3.857817236;0.103883474;0.75
+Cantidad de variables: 4 Iteracion: 69;4.040571647;0.06041334;0.75
+Cantidad de variables: 4 Iteracion: 78;3.904723941;0.083143672;0.75
+Cantidad de variables: 4 Iteracion: 82;3.776973182;0.121815948;0.708333333
+Cantidad de variables: 4 Iteracion: 83;3.747740582;0.110288963;0.708333333
+Cantidad de variables: 4 Iteracion: 84;3.900537342;0.092753828;0.75
+Cantidad de variables: 4 Iteracion: 85;4.04982889;0.046881486;0.708333333
+Cantidad de variables: 4 Iteracion: 86;4.010965519;0.042175935;0.75
+Cantidad de variables: 4 Iteracion: 92;4.296923115;0.005483227;0.708333333
+Cantidad de variables: 4 Iteracion: 93;4.188391893;0.010694523;0.75
+Cantidad de variables: 4 Iteracion: 94;3.874008011;0.098004592;0.75
+Cantidad de variables: 4 Iteracion: 98;4.32768637;-0.012238967;0.75
+Cantidad de variables: 5 Iteracion: 1;4.007943267;0.068815991;0.75
+Cantidad de variables: 5 Iteracion: 2;3.77712995;0.11540492;0.708333333
+Cantidad de variables: 5 Iteracion: 3;4.054633804;0.064076876;0.708333333
+Cantidad de variables: 5 Iteracion: 4;3.964123165;0.06724124;0.75
+Cantidad de variables: 5 Iteracion: 5;4.294908567;0.003938516;0.708333333
+Cantidad de variables: 5 Iteracion: 6;3.841274552;0.110050729;0.708333333
+Cantidad de variables: 5 Iteracion: 7;3.965260834;0.088040917;0.708333333
+Cantidad de variables: 5 Iteracion: 8;3.77898079;0.118685084;0.708333333
+Cantidad de variables: 5 Iteracion: 9;3.912419873;0.076930746;0.75
+Cantidad de variables: 5 Iteracion: 10;4.049395148;0.046772658;0.75
+Cantidad de variables: 5 Iteracion: 11;3.870052995;0.113143077;0.708333333
+Cantidad de variables: 5 Iteracion: 12;3.807697912;0.098534538;0.708333333
+Cantidad de variables: 5 Iteracion: 13;3.862345884;0.096953349;0.75
+Cantidad de variables: 5 Iteracion: 14;3.913770686;0.079997524;0.708333333
+Cantidad de variables: 5 Iteracion: 15;3.813928742;0.108867314;0.708333333
+Cantidad de variables: 5 Iteracion: 16;4.088016978;0.018898424;0.75
+Cantidad de variables: 5 Iteracion: 17;3.918104431;0.086587868;0.708333333
+Cantidad de variables: 5 Iteracion: 18;4.249448736;0.018638043;0.75
+Cantidad de variables: 5 Iteracion: 19;4.003307764;0.06526916;0.708333333
+Cantidad de variables: 5 Iteracion: 20;3.797354263;0.082208616;0.75
+Cantidad de variables: 5 Iteracion: 21;3.735931448;0.130849069;0.75
+Cantidad de variables: 5 Iteracion: 22;3.990957622;0.081128113;0.708333333
+Cantidad de variables: 5 Iteracion: 23;3.918759831;0.082937355;0.75
+Cantidad de variables: 5 Iteracion: 24;3.764321255;0.115561301;0.708333333
+Cantidad de variables: 5 Iteracion: 25;3.997095405;0.07831662;0.708333333
+Cantidad de variables: 5 Iteracion: 26;3.853291502;0.100840106;0.75
+Cantidad de variables: 5 Iteracion: 27;3.850404702;0.093817071;0.708333333
+Cantidad de variables: 5 Iteracion: 28;3.819817603;0.084389484;0.75
+Cantidad de variables: 5 Iteracion: 29;3.98985633;0.061768393;0.708333333
+Cantidad de variables: 5 Iteracion: 30;3.854573221;0.11382123;0.75
+Cantidad de variables: 5 Iteracion: 31;4.039867031;0.058708293;0.708333333
+Cantidad de variables: 5 Iteracion: 32;4.169651366;0.034425181;0.75
+Cantidad de variables: 5 Iteracion: 33;4.022028927;0.065535984;0.75
+Cantidad de variables: 5 Iteracion: 34;3.756710086;0.122005393;0.708333333
+Cantidad de variables: 5 Iteracion: 35;3.774033266;0.102586188;0.708333333
+Cantidad de variables: 5 Iteracion: 36;4.097162402;0.046335555;0.75
+Cantidad de variables: 5 Iteracion: 37;3.986136811;0.058902603;0.75
+Cantidad de variables: 5 Iteracion: 38;4.018932876;0.044840796;0.75
+Cantidad de variables: 5 Iteracion: 39;4.038577205;0.070761851;0.708333333
+Cantidad de variables: 5 Iteracion: 40;3.881644509;0.100840484;0.75
+Cantidad de variables: 5 Iteracion: 41;3.960798967;0.070066168;0.708333333
+Cantidad de variables: 5 Iteracion: 44;3.963095944;0.087620812;0.708333333
+Cantidad de variables: 5 Iteracion: 45;4.027534524;0.066064469;0.708333333
+Cantidad de variables: 5 Iteracion: 48;3.842597363;0.109764283;0.708333333
+Cantidad de variables: 5 Iteracion: 50;4.174639112;0.036263178;0.75
+Cantidad de variables: 5 Iteracion: 52;3.941169626;0.097704638;0.75
+Cantidad de variables: 5 Iteracion: 53;3.985709801;0.086989698;0.708333333
+Cantidad de variables: 5 Iteracion: 55;4.050228595;0.054491554;0.708333333
+Cantidad de variables: 5 Iteracion: 56;4.350882556;-0.018913459;0.75
+Cantidad de variables: 5 Iteracion: 58;3.848984553;0.094128052;0.75
+Cantidad de variables: 5 Iteracion: 59;4.144417645;0.01389791;0.708333333
+Cantidad de variables: 5 Iteracion: 60;3.902280546;0.078283813;0.708333333
+Cantidad de variables: 5 Iteracion: 62;4.002614133;0.065192708;0.75
+Cantidad de variables: 5 Iteracion: 64;4.231330121;0.005330417;0.708333333
+Cantidad de variables: 5 Iteracion: 65;4.197439462;0.003934954;0.75
+Cantidad de variables: 5 Iteracion: 66;3.946452723;0.076070728;0.708333333
+Cantidad de variables: 5 Iteracion: 67;3.937772287;0.098262591;0.708333333
+Cantidad de variables: 5 Iteracion: 68;4.171646379;0.0265105;0.708333333
+Cantidad de variables: 5 Iteracion: 71;3.995920746;0.069499582;0.708333333
+Cantidad de variables: 5 Iteracion: 73;4.049258927;0.044346492;0.708333333
+Cantidad de variables: 5 Iteracion: 75;3.926283228;0.075116593;0.75
+Cantidad de variables: 5 Iteracion: 76;4.112690023;0.057277169;0.708333333
+Cantidad de variables: 5 Iteracion: 77;3.85477674;0.097693319;0.75
+Cantidad de variables: 5 Iteracion: 78;3.86257794;0.104009538;0.708333333
+Cantidad de variables: 5 Iteracion: 79;4.233083172;0.015740616;0.708333333
+Cantidad de variables: 5 Iteracion: 81;4.059108461;0.042529139;0.75
+Cantidad de variables: 5 Iteracion: 82;4.163834093;0.042158139;0.75
+Cantidad de variables: 5 Iteracion: 83;4.510969065;-0.054809223;0.75
+Cantidad de variables: 5 Iteracion: 84;3.966429163;0.069329524;0.708333333
+Cantidad de variables: 5 Iteracion: 86;4.179189908;0.035916927;0.75
+Cantidad de variables: 5 Iteracion: 87;4.073018041;0.035311331;0.75
+Cantidad de variables: 5 Iteracion: 88;3.976315274;0.05720044;0.75
+Cantidad de variables: 5 Iteracion: 89;3.973169963;0.079291528;0.75
+Cantidad de variables: 5 Iteracion: 90;3.824312073;0.100839227;0.75
+Cantidad de variables: 5 Iteracion: 91;3.973137902;0.05713883;0.708333333
+Cantidad de variables: 5 Iteracion: 98;3.887632238;0.104332525;0.75
+Cantidad de variables: 6 Iteracion: 1;3.745063086;0.136597108;0.708333333
+Cantidad de variables: 6 Iteracion: 2;3.871071843;0.086634931;0.708333333
+Cantidad de variables: 6 Iteracion: 3;4.216248775;0.021473199;0.75
+Cantidad de variables: 6 Iteracion: 4;3.764238569;0.100894774;0.708333333
+Cantidad de variables: 6 Iteracion: 5;4.085380263;0.062811808;0.708333333
+Cantidad de variables: 6 Iteracion: 7;4.085225642;0.053848982;0.708333333
+Cantidad de variables: 6 Iteracion: 8;3.87240246;0.098732295;0.708333333
+Cantidad de variables: 6 Iteracion: 9;3.998245123;0.042505463;0.75
+Cantidad de variables: 6 Iteracion: 10;3.868742995;0.087837765;0.708333333
+Cantidad de variables: 6 Iteracion: 11;3.779461275;0.109070252;0.708333333
+Cantidad de variables: 6 Iteracion: 13;3.896341838;0.079773541;0.708333333
+Cantidad de variables: 6 Iteracion: 14;4.033150206;0.070932436;0.708333333
+Cantidad de variables: 6 Iteracion: 16;4.096434882;0.078944154;0.708333333
+Cantidad de variables: 6 Iteracion: 17;4.155748383;0.056929702;0.708333333
+Cantidad de variables: 6 Iteracion: 18;3.739479916;0.130902485;0.708333333
+Cantidad de variables: 6 Iteracion: 19;3.842306983;0.085336509;0.75
+Cantidad de variables: 6 Iteracion: 20;3.823112931;0.111549021;0.75
+Cantidad de variables: 6 Iteracion: 21;4.145700158;0.025721958;0.708333333
+Cantidad de variables: 6 Iteracion: 22;3.886680735;0.097645898;0.708333333
+Cantidad de variables: 6 Iteracion: 23;3.812566663;0.084504264;0.708333333
+Cantidad de variables: 6 Iteracion: 24;3.895488127;0.084570364;0.708333333
+Cantidad de variables: 6 Iteracion: 25;4.065371727;0.081793321;0.708333333
+Cantidad de variables: 6 Iteracion: 27;3.817847552;0.09771299;0.708333333
+Cantidad de variables: 6 Iteracion: 28;3.797438649;0.123329859;0.75
+Cantidad de variables: 6 Iteracion: 30;3.962270472;0.085915963;0.708333333
+Cantidad de variables: 6 Iteracion: 31;3.940240887;0.079825419;0.75
+Cantidad de variables: 6 Iteracion: 32;3.821854609;0.105841294;0.75
+Cantidad de variables: 6 Iteracion: 33;3.862724782;0.076140267;0.75
+Cantidad de variables: 6 Iteracion: 34;4.163794456;0.036094159;0.708333333
+Cantidad de variables: 6 Iteracion: 35;3.842027646;0.099329532;0.75
+Cantidad de variables: 6 Iteracion: 36;3.758066993;0.118428184;0.708333333
+Cantidad de variables: 6 Iteracion: 38;3.818470659;0.096238845;0.708333333
+Cantidad de variables: 6 Iteracion: 39;4.032459437;0.054092814;0.708333333
+Cantidad de variables: 6 Iteracion: 42;3.903043812;0.097763516;0.708333333
+Cantidad de variables: 6 Iteracion: 43;3.748208552;0.134882015;0.708333333
+Cantidad de variables: 6 Iteracion: 45;4.11073181;0.037069406;0.75
+Cantidad de variables: 6 Iteracion: 46;3.733189381;0.099937226;0.708333333
+Cantidad de variables: 6 Iteracion: 48;3.987874613;0.071588817;0.75
+Cantidad de variables: 6 Iteracion: 49;4.062461725;0.069655317;0.75
+Cantidad de variables: 6 Iteracion: 52;3.99124966;0.054275849;0.708333333
+Cantidad de variables: 6 Iteracion: 53;4.098342858;0.05356172;0.708333333
+Cantidad de variables: 6 Iteracion: 55;3.952896502;0.07748082;0.708333333
+Cantidad de variables: 6 Iteracion: 56;3.8872597;0.090985306;0.75
+Cantidad de variables: 6 Iteracion: 58;3.842568665;0.109420125;0.708333333
+Cantidad de variables: 6 Iteracion: 60;4.291580105;-0.021501696;0.75
+Cantidad de variables: 6 Iteracion: 61;4.342539859;-0.017459403;0.708333333
+Cantidad de variables: 6 Iteracion: 63;3.939683412;0.0842698;0.708333333
+Cantidad de variables: 6 Iteracion: 64;3.852923507;0.113168962;0.708333333
+Cantidad de variables: 6 Iteracion: 65;3.819452212;0.098119382;0.75
+Cantidad de variables: 6 Iteracion: 66;4.039427543;0.059843227;0.75
+Cantidad de variables: 6 Iteracion: 67;3.691690169;0.132057946;0.708333333
+Cantidad de variables: 6 Iteracion: 68;3.798036405;0.118078855;0.708333333
+Cantidad de variables: 6 Iteracion: 69;3.790276685;0.099001803;0.75
+Cantidad de variables: 6 Iteracion: 70;3.906570062;0.082799388;0.708333333
+Cantidad de variables: 6 Iteracion: 71;4.311787451;-0.018944751;0.708333333
+Cantidad de variables: 6 Iteracion: 72;3.918589031;0.071233612;0.75
+Cantidad de variables: 6 Iteracion: 73;3.880025807;0.07811629;0.75
+Cantidad de variables: 6 Iteracion: 74;4.071734339;0.05603574;0.708333333
+Cantidad de variables: 6 Iteracion: 75;3.966627264;0.090449581;0.708333333
+Cantidad de variables: 6 Iteracion: 76;3.86842426;0.107284887;0.708333333
+Cantidad de variables: 6 Iteracion: 77;3.929801919;0.072038018;0.708333333
+Cantidad de variables: 6 Iteracion: 78;3.975029658;0.080705616;0.75
+Cantidad de variables: 6 Iteracion: 80;4.089017627;0.041127138;0.708333333
+Cantidad de variables: 6 Iteracion: 81;3.889549784;0.094118565;0.75
+Cantidad de variables: 6 Iteracion: 83;4.103192832;0.060008506;0.708333333
+Cantidad de variables: 6 Iteracion: 84;3.837172401;0.115100244;0.75
+Cantidad de variables: 6 Iteracion: 86;3.864423649;0.105359499;0.708333333
+Cantidad de variables: 6 Iteracion: 88;3.987646827;0.071767065;0.708333333
+Cantidad de variables: 6 Iteracion: 89;3.865385768;0.099232275;0.75
+Cantidad de variables: 6 Iteracion: 90;4.007691072;0.067099397;0.708333333
+Cantidad de variables: 6 Iteracion: 91;4.197449609;-0.002674459;0.75
+Cantidad de variables: 6 Iteracion: 92;4.121035169;0.045917591;0.708333333
+Cantidad de variables: 6 Iteracion: 96;3.950676814;0.076226339;0.708333333
+Cantidad de variables: 6 Iteracion: 98;4.018069468;0.063315298;0.75
+Cantidad de variables: 7 Iteracion: 1;3.772421234;0.125589817;0.708333333
+Cantidad de variables: 7 Iteracion: 2;3.935506467;0.089586065;0.708333333
+Cantidad de variables: 7 Iteracion: 3;3.977860179;0.068182733;0.708333333
+Cantidad de variables: 7 Iteracion: 4;3.958363559;0.08957689;0.708333333
+Cantidad de variables: 7 Iteracion: 5;4.099167428;0.042478365;0.708333333
+Cantidad de variables: 7 Iteracion: 6;3.970209009;0.069290357;0.75
+Cantidad de variables: 7 Iteracion: 7;3.94037818;0.065520664;0.708333333
+Cantidad de variables: 7 Iteracion: 8;3.723519994;0.137915392;0.708333333
+Cantidad de variables: 7 Iteracion: 9;4.059597197;0.034602765;0.708333333
+Cantidad de variables: 7 Iteracion: 10;4.225314934;0.02081465;0.75
+Cantidad de variables: 7 Iteracion: 11;3.974941402;0.050918851;0.708333333
+Cantidad de variables: 7 Iteracion: 12;4.201911366;0.004223803;0.75
+Cantidad de variables: 7 Iteracion: 13;3.921997072;0.087701701;0.708333333
+Cantidad de variables: 7 Iteracion: 14;3.826889133;0.115028422;0.75
+Cantidad de variables: 7 Iteracion: 15;4.063951322;0.066479042;0.708333333
+Cantidad de variables: 7 Iteracion: 16;3.843592514;0.107629476;0.708333333
+Cantidad de variables: 7 Iteracion: 17;3.905185827;0.077133671;0.708333333
+Cantidad de variables: 7 Iteracion: 18;3.872222926;0.084964896;0.708333333
+Cantidad de variables: 7 Iteracion: 19;3.969322584;0.080777086;0.708333333
+Cantidad de variables: 7 Iteracion: 20;4.034150884;0.055823847;0.708333333
+Cantidad de variables: 7 Iteracion: 21;3.695670324;0.130212987;0.708333333
+Cantidad de variables: 7 Iteracion: 22;3.801931907;0.117597076;0.708333333
+Cantidad de variables: 7 Iteracion: 24;4.141055441;0.046922442;0.708333333
+Cantidad de variables: 7 Iteracion: 25;4.064842017;0.058478625;0.75
+Cantidad de variables: 7 Iteracion: 26;3.974119627;0.093024498;0.708333333
+Cantidad de variables: 7 Iteracion: 27;4.030595577;0.049695671;0.75
+Cantidad de variables: 7 Iteracion: 28;4.027627875;0.077854714;0.708333333
+Cantidad de variables: 7 Iteracion: 29;3.958448561;0.079008903;0.708333333
+Cantidad de variables: 7 Iteracion: 30;3.857578016;0.095984539;0.708333333
+Cantidad de variables: 7 Iteracion: 31;4.01708785;0.062853692;0.708333333
+Cantidad de variables: 7 Iteracion: 32;3.865805064;0.108672019;0.75
+Cantidad de variables: 7 Iteracion: 33;3.802044222;0.10419823;0.708333333
+Cantidad de variables: 7 Iteracion: 34;3.919494684;0.067469266;0.708333333
+Cantidad de variables: 7 Iteracion: 35;4.22509053;0.027983218;0.75
+Cantidad de variables: 7 Iteracion: 36;3.97651918;0.069466448;0.708333333
+Cantidad de variables: 7 Iteracion: 38;4.103175733;0.050170331;0.708333333
+Cantidad de variables: 7 Iteracion: 40;3.975284873;0.076305249;0.708333333
+Cantidad de variables: 7 Iteracion: 41;3.944839344;0.048048195;0.75
+Cantidad de variables: 7 Iteracion: 42;4.116068956;0.053673478;0.708333333
+Cantidad de variables: 7 Iteracion: 44;3.929762768;0.095906577;0.75
+Cantidad de variables: 7 Iteracion: 45;3.883214007;0.082837834;0.708333333
+Cantidad de variables: 7 Iteracion: 46;4.053424162;0.052651753;0.708333333
+Cantidad de variables: 7 Iteracion: 47;3.9638675;0.063568177;0.708333333
+Cantidad de variables: 7 Iteracion: 48;3.990542926;0.052435309;0.708333333
+Cantidad de variables: 7 Iteracion: 49;4.330941375;-0.033200247;0.708333333
+Cantidad de variables: 7 Iteracion: 50;4.070326788;0.062667824;0.75
+Cantidad de variables: 7 Iteracion: 51;4.321011679;-0.015016987;0.708333333
+Cantidad de variables: 7 Iteracion: 52;3.962287952;0.077918492;0.75
+Cantidad de variables: 7 Iteracion: 53;3.925072487;0.093943518;0.666666667
+Cantidad de variables: 7 Iteracion: 54;3.921636951;0.10473897;0.708333333
+Cantidad de variables: 7 Iteracion: 55;3.989117017;0.085366813;0.708333333
+Cantidad de variables: 7 Iteracion: 56;3.880496652;0.08600478;0.708333333
+Cantidad de variables: 7 Iteracion: 57;3.886600972;0.083611324;0.708333333
+Cantidad de variables: 7 Iteracion: 58;3.928875563;0.062679186;0.708333333
+Cantidad de variables: 7 Iteracion: 59;3.826380202;0.103072986;0.708333333
+Cantidad de variables: 7 Iteracion: 60;3.848943311;0.083085817;0.708333333
+Cantidad de variables: 7 Iteracion: 61;3.833743957;0.09875818;0.708333333
+Cantidad de variables: 7 Iteracion: 63;3.788470157;0.095746592;0.708333333
+Cantidad de variables: 7 Iteracion: 64;3.908371318;0.08246308;0.708333333
+Cantidad de variables: 7 Iteracion: 68;3.783189344;0.116201072;0.708333333
+Cantidad de variables: 7 Iteracion: 69;3.798146577;0.121275493;0.708333333
+Cantidad de variables: 7 Iteracion: 70;3.969938318;0.069036664;0.75
+Cantidad de variables: 7 Iteracion: 71;4.085042054;0.051678461;0.708333333
+Cantidad de variables: 7 Iteracion: 72;3.987698034;0.05577936;0.708333333
+Cantidad de variables: 7 Iteracion: 74;3.883519424;0.098056789;0.708333333
+Cantidad de variables: 7 Iteracion: 76;3.677756692;0.140431503;0.708333333
+Cantidad de variables: 7 Iteracion: 77;3.865304495;0.102217373;0.708333333
+Cantidad de variables: 7 Iteracion: 79;3.89938515;0.116008701;0.708333333
+Cantidad de variables: 7 Iteracion: 82;4.348714148;-0.003949851;0.708333333
+Cantidad de variables: 7 Iteracion: 83;4.363133132;-0.015357204;0.708333333
+Cantidad de variables: 7 Iteracion: 85;3.829538493;0.118653428;0.708333333
+Cantidad de variables: 7 Iteracion: 87;4.012213545;0.056094591;0.708333333
+Cantidad de variables: 7 Iteracion: 88;3.998918239;0.09322195;0.708333333
+Cantidad de variables: 7 Iteracion: 89;4.082475275;0.052053392;0.708333333
+Cantidad de variables: 7 Iteracion: 92;3.757415358;0.111641412;0.75
+Cantidad de variables: 7 Iteracion: 93;3.930411112;0.105422494;0.708333333
+Cantidad de variables: 7 Iteracion: 95;3.900084267;0.085989337;0.708333333
+Cantidad de variables: 7 Iteracion: 96;3.856274155;0.114784656;0.708333333
+Cantidad de variables: 7 Iteracion: 97;4.167367963;0.018633879;0.708333333
+Cantidad de variables: 7 Iteracion: 98;3.98556849;0.067958607;0.75
+Cantidad de variables: 7 Iteracion: 99;3.974918651;0.093387733;0.75
+Cantidad de variables: 8 Iteracion: 1;3.923004978;0.080759504;0.708333333
+Cantidad de variables: 8 Iteracion: 2;3.941731204;0.094818866;0.708333333
+Cantidad de variables: 8 Iteracion: 3;3.970338997;0.068874082;0.708333333
+Cantidad de variables: 8 Iteracion: 4;3.766453557;0.093800372;0.708333333
+Cantidad de variables: 8 Iteracion: 5;3.892352551;0.089111791;0.708333333
+Cantidad de variables: 8 Iteracion: 6;3.88588352;0.093027596;0.708333333
+Cantidad de variables: 8 Iteracion: 7;3.851216739;0.099180866;0.708333333
+Cantidad de variables: 8 Iteracion: 8;4.040267509;0.052605763;0.708333333
+Cantidad de variables: 8 Iteracion: 9;4.139428302;0.054768417;0.708333333
+Cantidad de variables: 8 Iteracion: 10;3.871139007;0.096877543;0.708333333
+Cantidad de variables: 8 Iteracion: 11;4.156851005;0.039259082;0.75
+Cantidad de variables: 8 Iteracion: 12;3.780654887;0.118499949;0.708333333
+Cantidad de variables: 8 Iteracion: 13;4.116281435;0.046466441;0.708333333
+Cantidad de variables: 8 Iteracion: 14;3.977040027;0.079804053;0.708333333
+Cantidad de variables: 8 Iteracion: 16;3.853648669;0.117380158;0.708333333
+Cantidad de variables: 8 Iteracion: 17;3.837091517;0.087803489;0.708333333
+Cantidad de variables: 8 Iteracion: 18;3.935116283;0.080118599;0.708333333
+Cantidad de variables: 8 Iteracion: 19;3.851884051;0.096221224;0.708333333
+Cantidad de variables: 8 Iteracion: 20;4.096632129;0.039603954;0.708333333
+Cantidad de variables: 8 Iteracion: 21;3.996666192;0.079763808;0.708333333
+Cantidad de variables: 8 Iteracion: 22;3.979166429;0.062577943;0.708333333
+Cantidad de variables: 8 Iteracion: 23;3.995683402;0.065148706;0.708333333
+Cantidad de variables: 8 Iteracion: 24;4.079966815;0.046057454;0.708333333
+Cantidad de variables: 8 Iteracion: 26;3.77224732;0.110416418;0.708333333
+Cantidad de variables: 8 Iteracion: 27;4.130287679;0.052628109;0.708333333
+Cantidad de variables: 8 Iteracion: 28;3.892677421;0.083417843;0.75
+Cantidad de variables: 8 Iteracion: 29;3.994403042;0.076042707;0.708333333
+Cantidad de variables: 8 Iteracion: 30;3.777734402;0.122249769;0.708333333
+Cantidad de variables: 8 Iteracion: 31;3.926696168;0.079106863;0.666666667
+Cantidad de variables: 8 Iteracion: 32;4.094991322;0.059211345;0.708333333
+Cantidad de variables: 8 Iteracion: 33;4.116314726;0.036498255;0.708333333
+Cantidad de variables: 8 Iteracion: 34;3.784402695;0.120124352;0.708333333
+Cantidad de variables: 8 Iteracion: 36;4.110155882;0.04537149;0.708333333
+Cantidad de variables: 8 Iteracion: 37;3.882014126;0.109248052;0.708333333
+Cantidad de variables: 8 Iteracion: 38;4.015633056;0.063980369;0.708333333
+Cantidad de variables: 8 Iteracion: 40;3.922031453;0.086038233;0.708333333
+Cantidad de variables: 8 Iteracion: 41;4.110075626;0.044850398;0.708333333
+Cantidad de variables: 8 Iteracion: 42;4.072645914;0.052111623;0.708333333
+Cantidad de variables: 8 Iteracion: 43;3.951827222;0.084277811;0.708333333
+Cantidad de variables: 8 Iteracion: 44;3.89729204;0.105568674;0.708333333
+Cantidad de variables: 8 Iteracion: 45;4.138484504;0.043356166;0.708333333
+Cantidad de variables: 8 Iteracion: 46;3.943929621;0.08265589;0.708333333
+Cantidad de variables: 8 Iteracion: 47;3.913822074;0.085827692;0.708333333
+Cantidad de variables: 8 Iteracion: 48;3.822191577;0.112972638;0.708333333
+Cantidad de variables: 8 Iteracion: 49;4.160977014;0.046647423;0.708333333
+Cantidad de variables: 8 Iteracion: 51;3.729915397;0.131281869;0.708333333
+Cantidad de variables: 8 Iteracion: 52;3.960162775;0.069386365;0.708333333
+Cantidad de variables: 8 Iteracion: 53;3.978827686;0.07871185;0.708333333
+Cantidad de variables: 8 Iteracion: 54;4.033078626;0.061281977;0.75
+Cantidad de variables: 8 Iteracion: 55;4.30851708;-0.020415937;0.708333333
+Cantidad de variables: 8 Iteracion: 57;3.838571506;0.099869723;0.708333333
+Cantidad de variables: 8 Iteracion: 58;4.095643659;0.029230985;0.708333333
+Cantidad de variables: 8 Iteracion: 60;3.927249881;0.086745928;0.708333333
+Cantidad de variables: 8 Iteracion: 61;4.022345203;0.0823238;0.708333333
+Cantidad de variables: 8 Iteracion: 63;4.16285745;0.029945313;0.708333333
+Cantidad de variables: 8 Iteracion: 64;4.049140711;0.044546795;0.708333333
+Cantidad de variables: 8 Iteracion: 65;4.128570561;0.034639554;0.708333333
+Cantidad de variables: 8 Iteracion: 66;3.869383345;0.089237531;0.75
+Cantidad de variables: 8 Iteracion: 67;4.037524615;0.065793034;0.708333333
+Cantidad de variables: 8 Iteracion: 68;3.871726214;0.098142266;0.708333333
+Cantidad de variables: 8 Iteracion: 69;3.909267829;0.087271019;0.666666667
+Cantidad de variables: 8 Iteracion: 71;3.97938477;0.055899394;0.75
+Cantidad de variables: 8 Iteracion: 72;4.066472289;0.053498541;0.708333333
+Cantidad de variables: 8 Iteracion: 74;4.146418213;0.015109673;0.708333333
+Cantidad de variables: 8 Iteracion: 75;3.990730726;0.069235963;0.708333333
+Cantidad de variables: 8 Iteracion: 76;4.003558514;0.057366105;0.708333333
+Cantidad de variables: 8 Iteracion: 77;4.148800198;0.040646008;0.708333333
+Cantidad de variables: 8 Iteracion: 79;4.139914627;0.031735547;0.708333333
+Cantidad de variables: 8 Iteracion: 81;3.988551685;0.047661313;0.708333333
+Cantidad de variables: 8 Iteracion: 82;3.978250304;0.055595098;0.708333333
+Cantidad de variables: 8 Iteracion: 83;3.962776073;0.081083238;0.708333333
+Cantidad de variables: 8 Iteracion: 84;3.996112383;0.059567375;0.708333333
+Cantidad de variables: 8 Iteracion: 85;3.776375019;0.093807413;0.708333333
+Cantidad de variables: 8 Iteracion: 86;3.740277003;0.112187028;0.708333333
+Cantidad de variables: 8 Iteracion: 87;4.121979468;0.025126982;0.708333333
+Cantidad de variables: 8 Iteracion: 89;3.913633562;0.09534969;0.708333333
+Cantidad de variables: 8 Iteracion: 90;4.102791436;0.059568306;0.708333333
+Cantidad de variables: 8 Iteracion: 91;4.052678926;0.062978937;0.708333333
+Cantidad de variables: 8 Iteracion: 92;4.194699464;0.028567284;0.708333333
+Cantidad de variables: 8 Iteracion: 93;4.136322437;0.037466718;0.708333333
+Cantidad de variables: 8 Iteracion: 98;4.11825611;0.054954901;0.75
+Cantidad de variables: 9 Iteracion: 1;3.973302659;0.081062536;0.708333333
+Cantidad de variables: 9 Iteracion: 2;3.878101693;0.088760164;0.708333333
+Cantidad de variables: 9 Iteracion: 3;4.084498966;0.038678505;0.708333333
+Cantidad de variables: 9 Iteracion: 4;3.970779644;0.073363045;0.708333333
+Cantidad de variables: 9 Iteracion: 5;3.88943762;0.098112756;0.708333333
+Cantidad de variables: 9 Iteracion: 6;3.896692169;0.104624409;0.708333333
+Cantidad de variables: 9 Iteracion: 7;4.153485789;0.03114559;0.75
+Cantidad de variables: 9 Iteracion: 8;3.851601988;0.100744571;0.708333333
+Cantidad de variables: 9 Iteracion: 9;3.838869947;0.089125892;0.708333333
+Cantidad de variables: 9 Iteracion: 10;4.05115379;0.061745884;0.708333333
+Cantidad de variables: 9 Iteracion: 11;3.86779219;0.100524646;0.708333333
+Cantidad de variables: 9 Iteracion: 12;3.816773634;0.123376084;0.708333333
+Cantidad de variables: 9 Iteracion: 13;3.8771514;0.090852999;0.708333333
+Cantidad de variables: 9 Iteracion: 14;3.822637238;0.103167779;0.708333333
+Cantidad de variables: 9 Iteracion: 15;3.856667226;0.114035688;0.708333333
+Cantidad de variables: 9 Iteracion: 16;3.925416184;0.052018938;0.708333333
+Cantidad de variables: 9 Iteracion: 17;3.766097075;0.115313581;0.708333333
+Cantidad de variables: 9 Iteracion: 18;4.196143913;0.020669914;0.708333333
+Cantidad de variables: 9 Iteracion: 19;3.930897355;0.075391142;0.666666667
+Cantidad de variables: 9 Iteracion: 20;4.06924379;0.048161193;0.708333333
+Cantidad de variables: 9 Iteracion: 21;3.982674047;0.077068782;0.708333333
+Cantidad de variables: 9 Iteracion: 22;3.903265229;0.083887466;0.708333333
+Cantidad de variables: 9 Iteracion: 24;4.298858126;-0.015572182;0.666666667
+Cantidad de variables: 9 Iteracion: 25;3.896190407;0.089489766;0.708333333
+Cantidad de variables: 9 Iteracion: 26;3.919357757;0.087750273;0.666666667
+Cantidad de variables: 9 Iteracion: 27;3.907025918;0.083832262;0.708333333
+Cantidad de variables: 9 Iteracion: 28;3.990280675;0.081281804;0.708333333
+Cantidad de variables: 9 Iteracion: 29;3.88291418;0.099865839;0.708333333
+Cantidad de variables: 9 Iteracion: 30;3.937117836;0.107558402;0.708333333
+Cantidad de variables: 9 Iteracion: 31;4.346999891;-0.044465733;0.708333333
+Cantidad de variables: 9 Iteracion: 32;4.21648983;0.036092582;0.708333333
+Cantidad de variables: 9 Iteracion: 33;3.996764979;0.076479624;0.708333333
+Cantidad de variables: 9 Iteracion: 34;3.925983867;0.080759562;0.708333333
+Cantidad de variables: 9 Iteracion: 35;4.134097738;0.041607172;0.708333333
+Cantidad de variables: 9 Iteracion: 36;3.873012482;0.062340827;0.708333333
+Cantidad de variables: 9 Iteracion: 37;3.99819157;0.062893294;0.75
+Cantidad de variables: 9 Iteracion: 38;4.189725239;0.037981047;0.708333333
+Cantidad de variables: 9 Iteracion: 39;3.947146869;0.07376149;0.708333333
+Cantidad de variables: 9 Iteracion: 40;4.041256346;0.057094792;0.708333333
+Cantidad de variables: 9 Iteracion: 42;3.987780106;0.070615115;0.708333333
+Cantidad de variables: 9 Iteracion: 43;4.085763302;0.041178137;0.708333333
+Cantidad de variables: 9 Iteracion: 44;3.944734452;0.076366451;0.708333333
+Cantidad de variables: 9 Iteracion: 45;4.047970454;0.050771898;0.708333333
+Cantidad de variables: 9 Iteracion: 46;4.08468375;0.061095632;0.708333333
+Cantidad de variables: 9 Iteracion: 47;3.970806579;0.07652865;0.708333333
+Cantidad de variables: 9 Iteracion: 48;3.850421695;0.109373882;0.708333333
+Cantidad de variables: 9 Iteracion: 49;4.083172618;0.05373426;0.75
+Cantidad de variables: 9 Iteracion: 50;4.006018273;0.050228314;0.666666667
+Cantidad de variables: 9 Iteracion: 51;3.979083115;0.075892595;0.708333333
+Cantidad de variables: 9 Iteracion: 52;4.067550919;0.03663532;0.708333333
+Cantidad de variables: 9 Iteracion: 54;4.209474234;0.018200616;0.708333333
+Cantidad de variables: 9 Iteracion: 55;3.948424281;0.069542791;0.708333333
+Cantidad de variables: 9 Iteracion: 56;3.917504293;0.099402283;0.708333333
+Cantidad de variables: 9 Iteracion: 57;3.949842141;0.072493414;0.708333333
+Cantidad de variables: 9 Iteracion: 58;4.033628464;0.057103906;0.708333333
+Cantidad de variables: 9 Iteracion: 59;4.160003672;0.032832094;0.708333333
+Cantidad de variables: 9 Iteracion: 60;3.859117031;0.105039904;0.708333333
+Cantidad de variables: 9 Iteracion: 61;3.980994964;0.079746793;0.708333333
+Cantidad de variables: 9 Iteracion: 63;3.931615714;0.075065658;0.708333333
+Cantidad de variables: 9 Iteracion: 64;3.92110874;0.088378118;0.708333333
+Cantidad de variables: 9 Iteracion: 65;4.167926334;0.045684216;0.708333333
+Cantidad de variables: 9 Iteracion: 66;4.124830375;0.031747059;0.75
+Cantidad de variables: 9 Iteracion: 67;4.093941004;0.052847415;0.708333333
+Cantidad de variables: 9 Iteracion: 68;3.950141038;0.06216575;0.708333333
+Cantidad de variables: 9 Iteracion: 69;3.913104166;0.069732393;0.666666667
+Cantidad de variables: 9 Iteracion: 71;4.135030114;0.032201156;0.708333333
+Cantidad de variables: 9 Iteracion: 72;3.858599121;0.102630488;0.708333333
+Cantidad de variables: 9 Iteracion: 73;4.029201974;0.051718672;0.708333333
+Cantidad de variables: 9 Iteracion: 74;4.002501854;0.032727241;0.708333333
+Cantidad de variables: 9 Iteracion: 75;4.086227858;0.033231452;0.708333333
+Cantidad de variables: 9 Iteracion: 76;3.951266272;0.083195023;0.708333333
+Cantidad de variables: 9 Iteracion: 77;3.819659947;0.105748124;0.708333333
+Cantidad de variables: 9 Iteracion: 79;3.985916336;0.061452839;0.708333333
+Cantidad de variables: 9 Iteracion: 80;3.87362953;0.105476642;0.708333333
+Cantidad de variables: 9 Iteracion: 81;3.986732153;0.061658108;0.708333333
+Cantidad de variables: 9 Iteracion: 83;3.808507503;0.109415475;0.708333333
+Cantidad de variables: 9 Iteracion: 84;3.787342735;0.108989156;0.708333333
+Cantidad de variables: 9 Iteracion: 85;3.819931241;0.110811188;0.708333333
+Cantidad de variables: 9 Iteracion: 86;4.203339235;0.014685951;0.708333333
+Cantidad de variables: 9 Iteracion: 87;3.983696047;0.048937138;0.708333333
+Cantidad de variables: 9 Iteracion: 88;3.918182885;0.08753341;0.708333333
+Cantidad de variables: 9 Iteracion: 89;3.928440212;0.086760042;0.708333333
+Cantidad de variables: 9 Iteracion: 90;3.947361532;0.091279527;0.708333333
+Cantidad de variables: 9 Iteracion: 91;4.022451265;0.054503198;0.708333333
+Cantidad de variables: 9 Iteracion: 93;3.892113551;0.074015373;0.666666667
+Cantidad de variables: 9 Iteracion: 94;3.885528567;0.102572026;0.708333333
+Cantidad de variables: 9 Iteracion: 95;4.2292719;0.007716844;0.708333333
+Cantidad de variables: 9 Iteracion: 96;4.317168662;-0.015385037;0.708333333
+Cantidad de variables: 9 Iteracion: 97;3.869735459;0.09347557;0.708333333
+Cantidad de variables: 9 Iteracion: 98;3.976817081;0.078543202;0.708333333
+Cantidad de variables: 9 Iteracion: 99;3.947458922;0.093049517;0.708333333
+Cantidad de variables: 10 Iteracion: 1;4.142513215;0.029316967;0.708333333
+Cantidad de variables: 10 Iteracion: 2;4.099897073;0.050338157;0.708333333
+Cantidad de variables: 10 Iteracion: 3;4.021990756;0.060385971;0.708333333
+Cantidad de variables: 10 Iteracion: 4;3.850371603;0.094299589;0.708333333
+Cantidad de variables: 10 Iteracion: 5;3.774190342;0.086499272;0.708333333
+Cantidad de variables: 10 Iteracion: 6;3.998627953;0.068193567;0.666666667
+Cantidad de variables: 10 Iteracion: 7;4.033968328;0.050404369;0.75
+Cantidad de variables: 10 Iteracion: 8;4.098015523;0.011239342;0.708333333
+Cantidad de variables: 10 Iteracion: 9;4.218108128;0.020882796;0.708333333
+Cantidad de variables: 10 Iteracion: 10;3.942077137;0.081255196;0.708333333
+Cantidad de variables: 10 Iteracion: 11;3.912158113;0.080915355;0.708333333
+Cantidad de variables: 10 Iteracion: 12;4.002912337;0.064502031;0.708333333
+Cantidad de variables: 10 Iteracion: 13;3.954674908;0.038129586;0.708333333
+Cantidad de variables: 10 Iteracion: 14;3.955203072;0.082479034;0.708333333
+Cantidad de variables: 10 Iteracion: 15;4.067618754;0.062350911;0.708333333
+Cantidad de variables: 10 Iteracion: 16;4.033802368;0.062347239;0.708333333
+Cantidad de variables: 10 Iteracion: 17;4.149740993;0.03054703;0.708333333
+Cantidad de variables: 10 Iteracion: 18;4.164968719;0.005798491;0.708333333
+Cantidad de variables: 10 Iteracion: 19;4.245686481;0.000587547;0.708333333
+Cantidad de variables: 10 Iteracion: 20;4.049136318;0.063730868;0.708333333
+Cantidad de variables: 10 Iteracion: 21;3.918947036;0.077742304;0.708333333
+Cantidad de variables: 10 Iteracion: 22;4.071276305;0.066562105;0.708333333
+Cantidad de variables: 10 Iteracion: 23;3.917598293;0.064140592;0.708333333
+Cantidad de variables: 10 Iteracion: 24;3.944020399;0.095780811;0.708333333
+Cantidad de variables: 10 Iteracion: 25;4.113820283;0.033874777;0.708333333
+Cantidad de variables: 10 Iteracion: 26;4.2131036;0.035535823;0.708333333
+Cantidad de variables: 10 Iteracion: 27;4.054312267;0.053302205;0.708333333
+Cantidad de variables: 10 Iteracion: 28;4.009354797;0.081010783;0.708333333
+Cantidad de variables: 10 Iteracion: 29;3.922670273;0.068319405;0.75
+Cantidad de variables: 10 Iteracion: 31;4.062054147;0.063058065;0.708333333
+Cantidad de variables: 10 Iteracion: 32;3.890647317;0.105064251;0.708333333
+Cantidad de variables: 10 Iteracion: 33;4.235294154;0.014621028;0.708333333
+Cantidad de variables: 10 Iteracion: 35;4.210604016;0.024632916;0.666666667
+Cantidad de variables: 10 Iteracion: 36;4.023996312;0.055327345;0.708333333
+Cantidad de variables: 10 Iteracion: 37;4.253344601;0.000646784;0.708333333
+Cantidad de variables: 10 Iteracion: 38;3.975464765;0.065381261;0.708333333
+Cantidad de variables: 10 Iteracion: 39;3.864577864;0.083460513;0.708333333
+Cantidad de variables: 10 Iteracion: 40;3.957374455;0.081376293;0.708333333
+Cantidad de variables: 10 Iteracion: 41;4.114081612;0.065974675;0.666666667
+Cantidad de variables: 10 Iteracion: 42;4.420461042;-0.040911524;0.708333333
+Cantidad de variables: 10 Iteracion: 43;3.941896294;0.076871556;0.708333333
+Cantidad de variables: 10 Iteracion: 44;3.894183681;0.084810647;0.708333333
+Cantidad de variables: 10 Iteracion: 45;3.878411545;0.102421069;0.708333333
+Cantidad de variables: 10 Iteracion: 47;4.071319218;0.042078605;0.708333333
+Cantidad de variables: 10 Iteracion: 48;4.03109729;0.068642403;0.708333333
+Cantidad de variables: 10 Iteracion: 49;4.135242468;0.023649825;0.708333333
+Cantidad de variables: 10 Iteracion: 50;4.236572987;0.019918351;0.708333333
+Cantidad de variables: 10 Iteracion: 51;4.023840852;0.057990598;0.708333333
+Cantidad de variables: 10 Iteracion: 52;4.082360128;0.03718398;0.708333333
+Cantidad de variables: 10 Iteracion: 53;4.015323652;0.049554976;0.708333333
+Cantidad de variables: 10 Iteracion: 55;4.235530469;0.010954174;0.708333333
+Cantidad de variables: 10 Iteracion: 56;4.123389224;0.040703303;0.708333333
+Cantidad de variables: 10 Iteracion: 57;3.960980652;0.081718788;0.708333333
+Cantidad de variables: 10 Iteracion: 58;4.002800563;0.074540242;0.708333333
+Cantidad de variables: 10 Iteracion: 59;3.922186558;0.078771032;0.708333333
+Cantidad de variables: 10 Iteracion: 60;4.126771651;0.024056143;0.708333333
+Cantidad de variables: 10 Iteracion: 61;3.807721087;0.109273423;0.708333333
+Cantidad de variables: 10 Iteracion: 62;3.952743078;0.053655365;0.708333333
+Cantidad de variables: 10 Iteracion: 63;4.104207982;0.016846553;0.708333333
+Cantidad de variables: 10 Iteracion: 64;4.008178685;0.05734431;0.708333333
+Cantidad de variables: 10 Iteracion: 65;4.073113359;0.046793451;0.708333333
+Cantidad de variables: 10 Iteracion: 66;3.942149282;0.088531765;0.708333333
+Cantidad de variables: 10 Iteracion: 67;3.80636573;0.081450029;0.708333333
+Cantidad de variables: 10 Iteracion: 68;4.126185197;0.037946812;0.708333333
+Cantidad de variables: 10 Iteracion: 69;4.041125857;0.05848455;0.708333333
+Cantidad de variables: 10 Iteracion: 70;4.104873869;0.048578012;0.708333333
+Cantidad de variables: 10 Iteracion: 71;4.144353998;0.040484644;0.708333333
+Cantidad de variables: 10 Iteracion: 72;4.197875822;0.021518294;0.708333333
+Cantidad de variables: 10 Iteracion: 73;4.052259316;0.052301917;0.708333333
+Cantidad de variables: 10 Iteracion: 74;3.951851529;0.082019194;0.708333333
+Cantidad de variables: 10 Iteracion: 75;4.222060475;0.013973023;0.708333333
+Cantidad de variables: 10 Iteracion: 77;3.991759987;0.075923634;0.708333333
+Cantidad de variables: 10 Iteracion: 78;4.191046089;0.039774638;0.708333333
+Cantidad de variables: 10 Iteracion: 79;3.878693779;0.10229651;0.708333333
+Cantidad de variables: 10 Iteracion: 80;3.863085741;0.097987593;0.708333333
+Cantidad de variables: 10 Iteracion: 81;4.019509924;0.07163994;0.708333333
+Cantidad de variables: 10 Iteracion: 82;4.085773237;0.029913579;0.708333333
+Cantidad de variables: 10 Iteracion: 83;3.967075327;0.061719888;0.666666667
+Cantidad de variables: 10 Iteracion: 84;3.974825556;0.074674637;0.708333333
+Cantidad de variables: 10 Iteracion: 85;4.055939304;0.04875269;0.708333333
+Cantidad de variables: 10 Iteracion: 86;3.992125144;0.076015002;0.666666667
+Cantidad de variables: 10 Iteracion: 87;4.07249075;0.053578665;0.708333333
+Cantidad de variables: 10 Iteracion: 88;3.998812473;0.048271813;0.708333333
+Cantidad de variables: 10 Iteracion: 89;3.863946689;0.101548446;0.708333333
+Cantidad de variables: 10 Iteracion: 90;3.979251853;0.077484792;0.708333333
+Cantidad de variables: 10 Iteracion: 91;3.904823429;0.088749197;0.708333333
+Cantidad de variables: 10 Iteracion: 92;3.786207988;0.11118658;0.708333333
+Cantidad de variables: 10 Iteracion: 93;3.990328079;0.059050238;0.708333333
+Cantidad de variables: 10 Iteracion: 94;4.029378202;0.072994542;0.708333333
+Cantidad de variables: 10 Iteracion: 95;4.090742102;0.044947323;0.666666667
+Cantidad de variables: 10 Iteracion: 96;4.058406767;0.062179198;0.708333333
+Cantidad de variables: 10 Iteracion: 97;3.868339752;0.075382911;0.708333333
+Cantidad de variables: 10 Iteracion: 98;3.961137861;0.088778577;0.708333333
+Cantidad de variables: 10 Iteracion: 99;3.900111125;0.105629918;0.708333333
+Cantidad de variables: 11 Iteracion: 1;4.192210646;0.000233235;0.708333333
+Cantidad de variables: 11 Iteracion: 2;3.942011884;0.088266902;0.708333333
+Cantidad de variables: 11 Iteracion: 3;4.03292806;0.039792677;0.708333333
+Cantidad de variables: 11 Iteracion: 4;4.006571443;0.060559802;0.708333333
+Cantidad de variables: 11 Iteracion: 5;4.022089004;0.062566732;0.708333333
+Cantidad de variables: 11 Iteracion: 6;4.261006666;-0.006630003;0.708333333
+Cantidad de variables: 11 Iteracion: 7;4.170210916;0.030111987;0.708333333
+Cantidad de variables: 11 Iteracion: 8;4.011994568;0.054479786;0.708333333
+Cantidad de variables: 11 Iteracion: 9;3.937657508;0.080660629;0.708333333
+Cantidad de variables: 11 Iteracion: 10;4.120844614;0.04046542;0.708333333
+Cantidad de variables: 11 Iteracion: 11;3.899930388;0.078755495;0.708333333
+Cantidad de variables: 11 Iteracion: 12;3.987419574;0.08201151;0.708333333
+Cantidad de variables: 11 Iteracion: 13;4.032466616;0.063299314;0.708333333
+Cantidad de variables: 11 Iteracion: 14;4.078132467;0.037616721;0.708333333
+Cantidad de variables: 11 Iteracion: 15;4.028055844;0.060302912;0.708333333
+Cantidad de variables: 11 Iteracion: 16;3.840928289;0.092729422;0.708333333
+Cantidad de variables: 11 Iteracion: 17;4.194193505;0.033560979;0.708333333
+Cantidad de variables: 11 Iteracion: 18;4.276565042;0.005848932;0.708333333
+Cantidad de variables: 11 Iteracion: 19;4.072247167;0.055269363;0.708333333
+Cantidad de variables: 11 Iteracion: 20;3.93782565;0.087166741;0.708333333
+Cantidad de variables: 11 Iteracion: 21;4.213373258;0.013689707;0.708333333
+Cantidad de variables: 11 Iteracion: 22;4.303372512;-0.019241557;0.708333333
+Cantidad de variables: 11 Iteracion: 23;4.24414181;0.01242662;0.708333333
+Cantidad de variables: 11 Iteracion: 24;3.958113607;0.090460718;0.708333333
+Cantidad de variables: 11 Iteracion: 25;3.938918859;0.082640547;0.708333333
+Cantidad de variables: 11 Iteracion: 26;4.07049223;0.045927572;0.708333333
+Cantidad de variables: 11 Iteracion: 27;4.26984736;-0.001707635;0.708333333
+Cantidad de variables: 11 Iteracion: 28;3.989582396;0.066990566;0.708333333
+Cantidad de variables: 11 Iteracion: 29;3.921489462;0.081515024;0.708333333
+Cantidad de variables: 11 Iteracion: 30;4.090348893;0.036482755;0.708333333
+Cantidad de variables: 11 Iteracion: 31;3.901771621;0.070409339;0.708333333
+Cantidad de variables: 11 Iteracion: 32;4.092418065;0.053388194;0.666666667
+Cantidad de variables: 11 Iteracion: 33;4.176582327;0.020172024;0.708333333
+Cantidad de variables: 11 Iteracion: 34;4.016173131;0.062671548;0.666666667
+Cantidad de variables: 11 Iteracion: 35;4.141554326;0.026634053;0.708333333
+Cantidad de variables: 11 Iteracion: 36;4.05325435;0.045350078;0.708333333
+Cantidad de variables: 11 Iteracion: 37;4.120511249;0.029022815;0.75
+Cantidad de variables: 11 Iteracion: 38;4.401439724;-0.026672441;0.708333333
+Cantidad de variables: 11 Iteracion: 40;3.9936923;0.064080981;0.708333333
+Cantidad de variables: 11 Iteracion: 41;4.105059926;0.05894752;0.708333333
+Cantidad de variables: 11 Iteracion: 42;3.869865441;0.089460078;0.708333333
+Cantidad de variables: 11 Iteracion: 43;3.912957574;0.077872439;0.708333333
+Cantidad de variables: 11 Iteracion: 44;4.090208947;0.054598318;0.708333333
+Cantidad de variables: 11 Iteracion: 45;4.246587543;0.001264927;0.708333333
+Cantidad de variables: 11 Iteracion: 46;3.966235679;0.06959328;0.708333333
+Cantidad de variables: 11 Iteracion: 47;3.961043501;0.066717377;0.708333333
+Cantidad de variables: 11 Iteracion: 48;4.070298953;0.067550182;0.708333333
+Cantidad de variables: 11 Iteracion: 49;4.01951437;0.038492517;0.708333333
+Cantidad de variables: 11 Iteracion: 50;3.955095507;0.05930169;0.708333333
+Cantidad de variables: 11 Iteracion: 51;4.019434801;0.057809005;0.708333333
+Cantidad de variables: 11 Iteracion: 52;4.047511164;0.03366731;0.708333333
+Cantidad de variables: 11 Iteracion: 53;4.036649945;0.047312173;0.666666667
+Cantidad de variables: 11 Iteracion: 55;3.917832482;0.073463149;0.666666667
+Cantidad de variables: 11 Iteracion: 56;4.134003346;0.03171565;0.666666667
+Cantidad de variables: 11 Iteracion: 57;3.959371486;0.063386046;0.708333333
+Cantidad de variables: 11 Iteracion: 58;3.980824067;0.073565073;0.708333333
+Cantidad de variables: 11 Iteracion: 59;4.204547946;0.033977125;0.708333333
+Cantidad de variables: 11 Iteracion: 60;3.948583774;0.076914441;0.708333333
+Cantidad de variables: 11 Iteracion: 61;4.024404303;0.045581723;0.708333333
+Cantidad de variables: 11 Iteracion: 62;4.050727207;0.038826845;0.708333333
+Cantidad de variables: 11 Iteracion: 63;4.388607338;-0.022956913;0.708333333
+Cantidad de variables: 11 Iteracion: 65;4.117143327;0.016697872;0.708333333
+Cantidad de variables: 11 Iteracion: 66;4.090521246;0.052723719;0.708333333
+Cantidad de variables: 11 Iteracion: 67;3.941468846;0.081597632;0.708333333
+Cantidad de variables: 11 Iteracion: 68;4.080959686;0.033041164;0.708333333
+Cantidad de variables: 11 Iteracion: 69;3.948606292;0.052395654;0.666666667
+Cantidad de variables: 11 Iteracion: 70;4.008706301;0.083952014;0.708333333
+Cantidad de variables: 11 Iteracion: 71;4.017773718;0.062976382;0.708333333
+Cantidad de variables: 11 Iteracion: 72;4.171210906;0.024310728;0.708333333
+Cantidad de variables: 11 Iteracion: 73;4.020408477;0.062094096;0.708333333
+Cantidad de variables: 11 Iteracion: 74;4.306988789;0.016376251;0.708333333
+Cantidad de variables: 11 Iteracion: 75;4.09678434;0.045355745;0.708333333
+Cantidad de variables: 11 Iteracion: 76;4.141361727;0.038864655;0.708333333
+Cantidad de variables: 11 Iteracion: 77;4.18403154;0.034820615;0.708333333
+Cantidad de variables: 11 Iteracion: 78;3.899842247;0.085401244;0.708333333
+Cantidad de variables: 11 Iteracion: 79;3.967391038;0.067668002;0.708333333
+Cantidad de variables: 11 Iteracion: 80;3.962768039;0.076520999;0.708333333
+Cantidad de variables: 11 Iteracion: 81;4.116218184;0.024714432;0.708333333
+Cantidad de variables: 11 Iteracion: 82;4.091778868;0.059128464;0.708333333
+Cantidad de variables: 11 Iteracion: 83;4.086597333;0.050268849;0.666666667
+Cantidad de variables: 11 Iteracion: 84;3.894541934;0.076227426;0.708333333
+Cantidad de variables: 11 Iteracion: 85;4.221480694;0.019148626;0.708333333
+Cantidad de variables: 11 Iteracion: 86;3.98571085;0.068275107;0.708333333
+Cantidad de variables: 11 Iteracion: 88;4.081096544;0.038702828;0.75
+Cantidad de variables: 11 Iteracion: 89;3.961631241;0.07287865;0.708333333
+Cantidad de variables: 11 Iteracion: 91;4.020099679;0.048600174;0.708333333
+Cantidad de variables: 11 Iteracion: 92;4.046358988;0.055813776;0.708333333
+Cantidad de variables: 11 Iteracion: 93;4.015170986;0.053332701;0.708333333
+Cantidad de variables: 11 Iteracion: 94;3.866105341;0.083875424;0.708333333
+Cantidad de variables: 11 Iteracion: 96;4.139834924;0.053078177;0.708333333
+Cantidad de variables: 11 Iteracion: 97;3.998717551;0.06072861;0.666666667
+Cantidad de variables: 11 Iteracion: 98;3.996742752;0.068234402;0.708333333
+Cantidad de variables: 11 Iteracion: 99;4.006760974;0.047617898;0.75
+Cantidad de variables: 12 Iteracion: 1;4.12122054;0.030582507;0.708333333
+Cantidad de variables: 12 Iteracion: 2;4.055262192;0.068377199;0.708333333
+Cantidad de variables: 12 Iteracion: 3;4.083646493;0.047280729;0.666666667
+Cantidad de variables: 12 Iteracion: 4;4.431407641;-0.030478374;0.708333333
+Cantidad de variables: 12 Iteracion: 5;4.409091087;-0.028321913;0.708333333
+Cantidad de variables: 12 Iteracion: 6;4.406922581;-0.030162097;0.666666667
+Cantidad de variables: 12 Iteracion: 7;4.252594155;0.003822912;0.708333333
+Cantidad de variables: 12 Iteracion: 8;4.078512878;0.035520805;0.708333333
+Cantidad de variables: 12 Iteracion: 9;4.077427004;0.041128493;0.708333333
+Cantidad de variables: 12 Iteracion: 10;4.135707946;0.032414777;0.666666667
+Cantidad de variables: 12 Iteracion: 11;3.999702484;0.062376434;0.708333333
+Cantidad de variables: 12 Iteracion: 12;4.343737492;-0.021997015;0.708333333
+Cantidad de variables: 12 Iteracion: 13;4.093367007;0.047013971;0.708333333
+Cantidad de variables: 12 Iteracion: 14;4.056815876;0.022193996;0.708333333
+Cantidad de variables: 12 Iteracion: 15;4.038323511;0.04704505;0.708333333
+Cantidad de variables: 12 Iteracion: 16;4.072489148;0.066383836;0.708333333
+Cantidad de variables: 12 Iteracion: 17;4.182030743;0.001840123;0.708333333
+Cantidad de variables: 12 Iteracion: 18;3.98438337;0.061700706;0.708333333
+Cantidad de variables: 12 Iteracion: 19;3.962849606;0.063040735;0.666666667
+Cantidad de variables: 12 Iteracion: 20;4.315992568;-0.010968756;0.666666667
+Cantidad de variables: 12 Iteracion: 21;4.239572232;-0.00267397;0.708333333
+Cantidad de variables: 12 Iteracion: 22;4.146694799;0.024473868;0.708333333
+Cantidad de variables: 12 Iteracion: 23;4.193922026;0.011619735;0.708333333
+Cantidad de variables: 12 Iteracion: 24;4.145309784;0.019939116;0.708333333
+Cantidad de variables: 12 Iteracion: 25;4.026829457;0.070073985;0.708333333
+Cantidad de variables: 12 Iteracion: 26;4.249546582;0.005818813;0.708333333
+Cantidad de variables: 12 Iteracion: 27;4.314096852;-0.017964182;0.708333333
+Cantidad de variables: 12 Iteracion: 28;4.059047584;0.033865877;0.708333333
+Cantidad de variables: 12 Iteracion: 29;4.017092568;0.038193879;0.708333333
+Cantidad de variables: 12 Iteracion: 30;4.376063854;-0.002937779;0.708333333
+Cantidad de variables: 12 Iteracion: 31;4.079401617;0.04937223;0.708333333
+Cantidad de variables: 12 Iteracion: 32;3.970038984;0.06112067;0.708333333
+Cantidad de variables: 12 Iteracion: 33;4.132843543;0.036603453;0.666666667
+Cantidad de variables: 12 Iteracion: 34;3.980773458;0.078974984;0.708333333
+Cantidad de variables: 12 Iteracion: 35;4.305308204;-0.009181448;0.708333333
+Cantidad de variables: 12 Iteracion: 36;4.025235178;0.049633153;0.708333333
+Cantidad de variables: 12 Iteracion: 37;4.127106319;0.049556815;0.708333333
+Cantidad de variables: 12 Iteracion: 38;4.050477268;0.047290475;0.708333333
+Cantidad de variables: 12 Iteracion: 39;4.26291976;0.003577808;0.708333333
+Cantidad de variables: 12 Iteracion: 40;4.081081243;0.019611023;0.708333333
+Cantidad de variables: 12 Iteracion: 41;4.113136273;0.02233054;0.708333333
+Cantidad de variables: 12 Iteracion: 42;4.015337971;0.06098786;0.708333333
+Cantidad de variables: 12 Iteracion: 43;4.335958913;-0.009036008;0.666666667
+Cantidad de variables: 12 Iteracion: 44;3.983304574;0.073793134;0.75
+Cantidad de variables: 12 Iteracion: 45;4.094851072;0.030925864;0.708333333
+Cantidad de variables: 12 Iteracion: 46;4.196979836;0.014158842;0.75
+Cantidad de variables: 12 Iteracion: 47;3.989502069;0.060420631;0.708333333
+Cantidad de variables: 12 Iteracion: 48;4.247422625;0.018450069;0.708333333
+Cantidad de variables: 12 Iteracion: 49;4.263369702;-0.01676228;0.708333333
+Cantidad de variables: 12 Iteracion: 50;4.078762789;0.03158812;0.666666667
+Cantidad de variables: 12 Iteracion: 51;4.119483904;0.022227569;0.708333333
+Cantidad de variables: 12 Iteracion: 52;4.075484722;0.045423137;0.708333333
+Cantidad de variables: 12 Iteracion: 53;4.090675562;0.026228213;0.708333333
+Cantidad de variables: 12 Iteracion: 54;4.13268908;0.021730747;0.666666667
+Cantidad de variables: 12 Iteracion: 55;4.085773278;0.038221092;0.708333333
+Cantidad de variables: 12 Iteracion: 56;3.920630356;0.077844108;0.708333333
+Cantidad de variables: 12 Iteracion: 57;4.391152644;-0.000561934;0.708333333
+Cantidad de variables: 12 Iteracion: 58;3.988985563;0.056202592;0.708333333
+Cantidad de variables: 12 Iteracion: 59;4.063426794;0.055162381;0.708333333
+Cantidad de variables: 12 Iteracion: 60;3.977048856;0.064095636;0.708333333
+Cantidad de variables: 12 Iteracion: 61;4.140112575;0.024724352;0.708333333
+Cantidad de variables: 12 Iteracion: 62;4.276399565;0.023408182;0.708333333
+Cantidad de variables: 12 Iteracion: 64;4.513365286;-0.048899704;0.708333333
+Cantidad de variables: 12 Iteracion: 65;3.967666705;0.052156746;0.708333333
+Cantidad de variables: 12 Iteracion: 66;4.094263062;0.051200418;0.708333333
+Cantidad de variables: 12 Iteracion: 67;4.076470077;0.057289628;0.666666667
+Cantidad de variables: 12 Iteracion: 68;4.357013161;-0.016601687;0.666666667
+Cantidad de variables: 12 Iteracion: 69;4.02788747;0.068153911;0.708333333
+Cantidad de variables: 12 Iteracion: 70;3.939487408;0.070445602;0.708333333
+Cantidad de variables: 12 Iteracion: 71;3.992997561;0.041631154;0.708333333
+Cantidad de variables: 12 Iteracion: 72;4.0495819;0.047385002;0.708333333
+Cantidad de variables: 12 Iteracion: 74;4.255068563;0.001402486;0.75
+Cantidad de variables: 12 Iteracion: 75;4.188858466;0.022971522;0.666666667
+Cantidad de variables: 12 Iteracion: 76;4.033276872;0.054380621;0.708333333
+Cantidad de variables: 12 Iteracion: 77;4.165428583;0.016386709;0.708333333
+Cantidad de variables: 12 Iteracion: 78;4.063815379;0.066328994;0.708333333
+Cantidad de variables: 12 Iteracion: 79;4.146071575;0.041875625;0.666666667
+Cantidad de variables: 12 Iteracion: 80;4.199109168;0.012223323;0.666666667
+Cantidad de variables: 12 Iteracion: 81;4.153282283;0.052710411;0.708333333
+Cantidad de variables: 12 Iteracion: 82;4.118195485;0.037185293;0.708333333
+Cantidad de variables: 12 Iteracion: 83;4.123577752;0.0440532;0.708333333
+Cantidad de variables: 12 Iteracion: 84;4.242645522;0.000240104;0.708333333
+Cantidad de variables: 12 Iteracion: 85;4.167674457;0.03671476;0.708333333
+Cantidad de variables: 12 Iteracion: 86;4.00095352;0.056081603;0.708333333
+Cantidad de variables: 12 Iteracion: 87;4.295532778;-0.020364164;0.708333333
+Cantidad de variables: 12 Iteracion: 88;4.029205399;0.038054477;0.708333333
+Cantidad de variables: 12 Iteracion: 89;4.603150785;-0.089372231;0.708333333
+Cantidad de variables: 12 Iteracion: 90;4.182455559;0.021895031;0.666666667
+Cantidad de variables: 12 Iteracion: 91;4.219497397;0.014460549;0.708333333
+Cantidad de variables: 12 Iteracion: 92;4.189566095;0.021055314;0.708333333
+Cantidad de variables: 12 Iteracion: 93;4.179948396;0.017307752;0.708333333
+Cantidad de variables: 12 Iteracion: 94;3.956265489;0.065451033;0.666666667
+Cantidad de variables: 12 Iteracion: 95;3.987968034;0.06170999;0.708333333
+Cantidad de variables: 12 Iteracion: 96;4.139823955;0.032498677;0.666666667
+Cantidad de variables: 12 Iteracion: 97;4.110590161;0.038714249;0.708333333
+Cantidad de variables: 12 Iteracion: 98;4.18742412;0.034418237;0.708333333
+Cantidad de variables: 12 Iteracion: 99;4.078663762;0.049245996;0.708333333
+Cantidad de variables: 13 Iteracion: 1;4.310377227;0.00559123;0.666666667
+Cantidad de variables: 13 Iteracion: 2;4.388246149;-0.01840468;0.708333333
+Cantidad de variables: 13 Iteracion: 3;4.124826766;0.052489052;0.708333333
+Cantidad de variables: 13 Iteracion: 4;4.077401108;0.070137227;0.708333333
+Cantidad de variables: 13 Iteracion: 5;4.209911797;0.003493464;0.666666667
+Cantidad de variables: 13 Iteracion: 6;4.259817817;0.009359349;0.666666667
+Cantidad de variables: 13 Iteracion: 7;4.079080583;0.045374666;0.708333333
+Cantidad de variables: 13 Iteracion: 8;4.072075021;0.054608213;0.708333333
+Cantidad de variables: 13 Iteracion: 9;4.111450428;0.041638856;0.708333333
+Cantidad de variables: 13 Iteracion: 10;4.321842835;-9.05E-05;0.708333333
+Cantidad de variables: 13 Iteracion: 11;4.169772547;0.015396889;0.708333333
+Cantidad de variables: 13 Iteracion: 12;4.110971542;0.02049361;0.708333333
+Cantidad de variables: 13 Iteracion: 13;4.540911504;-0.069549886;0.708333333
+Cantidad de variables: 13 Iteracion: 14;4.040664769;0.056040144;0.666666667
+Cantidad de variables: 13 Iteracion: 15;4.240891296;-0.000348728;0.708333333
+Cantidad de variables: 13 Iteracion: 16;4.199422874;0.025338391;0.666666667
+Cantidad de variables: 13 Iteracion: 17;4.454067988;-0.040585281;0.75
+Cantidad de variables: 13 Iteracion: 18;4.027265667;0.038703402;0.708333333
+Cantidad de variables: 13 Iteracion: 19;4.515998058;-0.053377885;0.708333333
+Cantidad de variables: 13 Iteracion: 20;4.056309703;0.050396388;0.708333333
+Cantidad de variables: 13 Iteracion: 21;4.245428495;0.008438745;0.708333333
+Cantidad de variables: 13 Iteracion: 22;4.197949625;0.015947346;0.666666667
+Cantidad de variables: 13 Iteracion: 23;4.170247453;0.033451296;0.666666667
+Cantidad de variables: 13 Iteracion: 24;4.217754786;0.004146334;0.708333333
+Cantidad de variables: 13 Iteracion: 25;4.246248805;0.009790919;0.708333333
+Cantidad de variables: 13 Iteracion: 26;4.531810251;-0.075222993;0.666666667
+Cantidad de variables: 13 Iteracion: 27;4.10571403;0.037726305;0.708333333
+Cantidad de variables: 13 Iteracion: 28;4.103797405;0.042331191;0.708333333
+Cantidad de variables: 13 Iteracion: 29;3.978769098;0.051575538;0.708333333
+Cantidad de variables: 13 Iteracion: 30;4.139325813;0.04268326;0.708333333
+Cantidad de variables: 13 Iteracion: 32;4.143695843;0.027694327;0.708333333
+Cantidad de variables: 13 Iteracion: 33;4.128375725;0.034004597;0.708333333
+Cantidad de variables: 13 Iteracion: 34;4.599724669;-0.065297446;0.708333333
+Cantidad de variables: 13 Iteracion: 35;4.206358794;-0.004636825;0.708333333
+Cantidad de variables: 13 Iteracion: 36;4.061336723;0.041472449;0.708333333
+Cantidad de variables: 13 Iteracion: 37;4.351621958;-0.02799146;0.708333333
+Cantidad de variables: 13 Iteracion: 38;4.282518994;0.003678476;0.708333333
+Cantidad de variables: 13 Iteracion: 39;3.931561719;0.068768833;0.708333333
+Cantidad de variables: 13 Iteracion: 40;4.158246384;0.004638626;0.708333333
+Cantidad de variables: 13 Iteracion: 41;4.243241721;0.002340257;0.708333333
+Cantidad de variables: 13 Iteracion: 42;4.062276265;0.061374425;0.708333333
+Cantidad de variables: 13 Iteracion: 43;4.287987765;-0.013827634;0.708333333
+Cantidad de variables: 13 Iteracion: 44;4.189125975;0.014634845;0.708333333
+Cantidad de variables: 13 Iteracion: 45;4.175139465;0.009020623;0.708333333
+Cantidad de variables: 13 Iteracion: 46;4.063645095;0.040579318;0.708333333
+Cantidad de variables: 13 Iteracion: 47;4.436536365;-0.026850709;0.708333333
+Cantidad de variables: 13 Iteracion: 48;4.225839497;0.010900506;0.708333333
+Cantidad de variables: 13 Iteracion: 49;4.181385518;0.023131093;0.666666667
+Cantidad de variables: 13 Iteracion: 50;4.179940311;-0.008462638;0.708333333
+Cantidad de variables: 13 Iteracion: 51;4.165063389;0.031129206;0.708333333
+Cantidad de variables: 13 Iteracion: 52;4.22583512;0.007380503;0.666666667
+Cantidad de variables: 13 Iteracion: 53;4.175679002;0.01920373;0.708333333
+Cantidad de variables: 13 Iteracion: 54;4.547853395;-0.064216379;0.708333333
+Cantidad de variables: 13 Iteracion: 55;4.230409119;0.029098025;0.708333333
+Cantidad de variables: 13 Iteracion: 56;4.330065763;0.001891698;0.708333333
+Cantidad de variables: 13 Iteracion: 57;4.101011981;0.042499447;0.708333333
+Cantidad de variables: 13 Iteracion: 58;4.152471368;0.033894647;0.666666667
+Cantidad de variables: 13 Iteracion: 59;4.311077143;0.012451101;0.708333333
+Cantidad de variables: 13 Iteracion: 60;4.358421889;-0.003343378;0.666666667
+Cantidad de variables: 13 Iteracion: 61;4.153677229;0.030298465;0.708333333
+Cantidad de variables: 13 Iteracion: 62;4.187900439;0.022059623;0.708333333
+Cantidad de variables: 13 Iteracion: 63;4.084182053;0.023933039;0.708333333
+Cantidad de variables: 13 Iteracion: 64;4.049136727;0.040611153;0.708333333
+Cantidad de variables: 13 Iteracion: 65;4.065931356;0.022849771;0.708333333
+Cantidad de variables: 13 Iteracion: 66;4.242279174;0.015215899;0.666666667
+Cantidad de variables: 13 Iteracion: 67;4.10800533;0.05225727;0.708333333
+Cantidad de variables: 13 Iteracion: 68;4.237828532;0.01799856;0.708333333
+Cantidad de variables: 13 Iteracion: 69;4.157886352;0.041666025;0.708333333
+Cantidad de variables: 13 Iteracion: 70;4.47221574;-0.048317039;0.708333333
+Cantidad de variables: 13 Iteracion: 71;4.092464166;0.030253848;0.708333333
+Cantidad de variables: 13 Iteracion: 72;4.161450133;0.018565821;0.708333333
+Cantidad de variables: 13 Iteracion: 73;4.039168881;0.056350006;0.708333333
+Cantidad de variables: 13 Iteracion: 74;4.475909766;-0.038309315;0.666666667
+Cantidad de variables: 13 Iteracion: 75;4.113057767;0.031314613;0.708333333
+Cantidad de variables: 13 Iteracion: 76;4.186035641;0.033036504;0.666666667
+Cantidad de variables: 13 Iteracion: 77;4.245506106;0.015705357;0.708333333
+Cantidad de variables: 13 Iteracion: 78;4.639547404;-0.093701674;0.708333333
+Cantidad de variables: 13 Iteracion: 79;4.056910766;0.0508513;0.708333333
+Cantidad de variables: 13 Iteracion: 80;4.245790089;0.014081855;0.708333333
+Cantidad de variables: 13 Iteracion: 81;4.124554427;0.039096262;0.666666667
+Cantidad de variables: 13 Iteracion: 82;4.26021904;0.007538697;0.708333333
+Cantidad de variables: 13 Iteracion: 83;4.022189206;0.048624742;0.708333333
+Cantidad de variables: 13 Iteracion: 84;4.091179591;0.041878161;0.708333333
+Cantidad de variables: 13 Iteracion: 85;4.324578365;0.000174941;0.708333333
+Cantidad de variables: 13 Iteracion: 86;4.123392629;0.03695606;0.708333333
+Cantidad de variables: 13 Iteracion: 87;4.104381908;0.040996202;0.708333333
+Cantidad de variables: 13 Iteracion: 88;4.298538065;0.011080414;0.708333333
+Cantidad de variables: 13 Iteracion: 90;4.039527646;0.055703622;0.708333333
+Cantidad de variables: 13 Iteracion: 91;4.351162461;0.002204416;0.666666667
+Cantidad de variables: 13 Iteracion: 92;4.102659392;0.041118717;0.708333333
+Cantidad de variables: 13 Iteracion: 93;4.200995462;0.023625362;0.708333333
+Cantidad de variables: 13 Iteracion: 94;4.155919691;0.02581787;0.708333333
+Cantidad de variables: 13 Iteracion: 95;4.273924158;-0.016744191;0.708333333
+Cantidad de variables: 13 Iteracion: 96;4.260643535;0.016906862;0.666666667
+Cantidad de variables: 13 Iteracion: 97;4.111264626;0.048911273;0.666666667
+Cantidad de variables: 13 Iteracion: 98;4.289660244;-0.032837789;0.708333333
+Cantidad de variables: 13 Iteracion: 99;4.220876019;0.008270323;0.666666667
+Cantidad de variables: 14 Iteracion: 1;4.2947652;0.006438934;0.666666667
+Cantidad de variables: 14 Iteracion: 2;4.170043451;0.014088202;0.666666667
+Cantidad de variables: 14 Iteracion: 3;4.291207339;-0.014720714;0.666666667
+Cantidad de variables: 14 Iteracion: 4;4.173143583;0.027434435;0.708333333
+Cantidad de variables: 14 Iteracion: 5;4.195636036;0.025133555;0.708333333
+Cantidad de variables: 14 Iteracion: 6;4.468961028;-0.030101553;0.708333333
+Cantidad de variables: 14 Iteracion: 7;4.158245295;0.012375324;0.708333333
+Cantidad de variables: 14 Iteracion: 8;4.17331019;0.016359211;0.708333333
+Cantidad de variables: 14 Iteracion: 9;4.426555057;-0.038263112;0.708333333
+Cantidad de variables: 14 Iteracion: 10;4.372359812;-0.027308414;0.708333333
+Cantidad de variables: 14 Iteracion: 11;4.602557052;-0.07488282;0.666666667
+Cantidad de variables: 14 Iteracion: 12;4.254147856;0.019301363;0.708333333
+Cantidad de variables: 14 Iteracion: 13;4.318007801;-0.019731653;0.708333333
+Cantidad de variables: 14 Iteracion: 14;4.73673895;-0.089516057;0.708333333
+Cantidad de variables: 14 Iteracion: 15;4.272405975;0.001561086;0.708333333
+Cantidad de variables: 14 Iteracion: 16;4.249583666;-0.007444126;0.666666667
+Cantidad de variables: 14 Iteracion: 17;4.163651075;0.008846884;0.708333333
+Cantidad de variables: 14 Iteracion: 18;4.170073608;0.01259666;0.708333333
+Cantidad de variables: 14 Iteracion: 19;4.176791474;0.013910873;0.666666667
+Cantidad de variables: 14 Iteracion: 20;4.294659546;0.005439696;0.708333333
+Cantidad de variables: 14 Iteracion: 21;4.187962239;0.02221408;0.708333333
+Cantidad de variables: 14 Iteracion: 22;4.112490839;0.028086196;0.708333333
+Cantidad de variables: 14 Iteracion: 23;4.262405942;0.00220863;0.708333333
+Cantidad de variables: 14 Iteracion: 24;4.32822004;-0.016095364;0.708333333
+Cantidad de variables: 14 Iteracion: 25;4.211481886;0.004827848;0.708333333
+Cantidad de variables: 14 Iteracion: 26;4.198396159;-0.006689727;0.708333333
+Cantidad de variables: 14 Iteracion: 27;4.32161151;-0.018473071;0.708333333
+Cantidad de variables: 14 Iteracion: 28;4.223425798;0.016122171;0.666666667
+Cantidad de variables: 14 Iteracion: 29;4.333349578;-0.004104888;0.708333333
+Cantidad de variables: 14 Iteracion: 30;4.370874462;-0.050764326;0.666666667
+Cantidad de variables: 14 Iteracion: 31;4.233819501;0.004477257;0.708333333
+Cantidad de variables: 14 Iteracion: 32;4.213068424;0.015300725;0.708333333
+Cantidad de variables: 14 Iteracion: 33;4.25357208;-0.001259317;0.708333333
+Cantidad de variables: 14 Iteracion: 34;4.159487493;0.02851713;0.708333333
+Cantidad de variables: 14 Iteracion: 35;4.165657849;0.020114202;0.708333333
+Cantidad de variables: 14 Iteracion: 36;4.110943243;0.051320508;0.708333333
+Cantidad de variables: 14 Iteracion: 37;4.162844756;0.040160456;0.708333333
+Cantidad de variables: 14 Iteracion: 38;4.226217357;-0.011338144;0.708333333
+Cantidad de variables: 14 Iteracion: 39;4.276172713;-0.0080791;0.708333333
+Cantidad de variables: 14 Iteracion: 40;4.397447452;-0.042474896;0.666666667
+Cantidad de variables: 14 Iteracion: 41;4.338662678;-0.016897188;0.708333333
+Cantidad de variables: 14 Iteracion: 42;4.123915798;0.026413651;0.708333333
+Cantidad de variables: 14 Iteracion: 43;4.255299021;0.014946146;0.666666667
+Cantidad de variables: 14 Iteracion: 44;4.335807764;0.006004085;0.666666667
+Cantidad de variables: 14 Iteracion: 45;4.13379772;0.018673362;0.708333333
+Cantidad de variables: 14 Iteracion: 46;4.450567625;-0.042247195;0.708333333
+Cantidad de variables: 14 Iteracion: 47;4.195441381;0.029665567;0.708333333
+Cantidad de variables: 14 Iteracion: 48;4.639175626;-0.106575165;0.708333333
+Cantidad de variables: 14 Iteracion: 49;4.518109374;-0.057428323;0.708333333
+Cantidad de variables: 14 Iteracion: 50;4.525409085;-0.037535594;0.708333333
+Cantidad de variables: 14 Iteracion: 51;4.371804746;-0.017692209;0.666666667
+Cantidad de variables: 14 Iteracion: 52;4.371125782;-0.01833068;0.708333333
+Cantidad de variables: 14 Iteracion: 53;4.214165506;0.004004361;0.708333333
+Cantidad de variables: 14 Iteracion: 54;4.145212508;0.023194561;0.666666667
+Cantidad de variables: 14 Iteracion: 55;4.244341152;-0.00060156;0.666666667
+Cantidad de variables: 14 Iteracion: 56;4.2811808;0.000698253;0.666666667
+Cantidad de variables: 14 Iteracion: 57;4.22063424;0.016386259;0.708333333
+Cantidad de variables: 14 Iteracion: 58;4.664561623;-0.071696577;0.708333333
+Cantidad de variables: 14 Iteracion: 59;4.321424859;-2.04E-05;0.708333333
+Cantidad de variables: 14 Iteracion: 60;4.263853402;0.001476213;0.666666667
+Cantidad de variables: 14 Iteracion: 61;4.269062432;0.004403826;0.708333333
+Cantidad de variables: 14 Iteracion: 62;4.0757682;0.033377384;0.708333333
+Cantidad de variables: 14 Iteracion: 63;4.173598861;0.019004276;0.666666667
+Cantidad de variables: 14 Iteracion: 64;4.208691724;0.003906083;0.708333333
+Cantidad de variables: 14 Iteracion: 65;4.215195606;0.018247705;0.708333333
+Cantidad de variables: 14 Iteracion: 66;4.292720927;0.002945819;0.708333333
+Cantidad de variables: 14 Iteracion: 67;4.110856336;0.030457171;0.708333333
+Cantidad de variables: 14 Iteracion: 68;4.136855505;0.03196995;0.708333333
+Cantidad de variables: 14 Iteracion: 69;4.212394027;0.003903753;0.666666667
+Cantidad de variables: 14 Iteracion: 70;4.238959061;0.026529849;0.708333333
+Cantidad de variables: 14 Iteracion: 71;4.412390126;-0.014699201;0.708333333
+Cantidad de variables: 14 Iteracion: 72;4.37164778;-0.036305112;0.666666667
+Cantidad de variables: 14 Iteracion: 73;4.527131066;-0.037393489;0.708333333
+Cantidad de variables: 14 Iteracion: 74;4.369544368;0.001378594;0.708333333
+Cantidad de variables: 14 Iteracion: 75;4.739407147;-0.098209509;0.666666667
+Cantidad de variables: 14 Iteracion: 76;4.269925617;0.014791733;0.666666667
+Cantidad de variables: 14 Iteracion: 77;4.359732011;-0.022333311;0.708333333
+Cantidad de variables: 14 Iteracion: 78;4.145780139;0.028834288;0.708333333
+Cantidad de variables: 14 Iteracion: 79;4.210287675;0.02281315;0.708333333
+Cantidad de variables: 14 Iteracion: 80;4.213915167;0.016319893;0.708333333
+Cantidad de variables: 14 Iteracion: 81;4.252051825;0.000774046;0.708333333
+Cantidad de variables: 14 Iteracion: 82;4.433155168;-0.035386355;0.708333333
+Cantidad de variables: 14 Iteracion: 83;4.267960232;-0.016998083;0.666666667
+Cantidad de variables: 14 Iteracion: 84;4.247996505;0.004521145;0.708333333
+Cantidad de variables: 14 Iteracion: 85;4.196178171;0.02655964;0.708333333
+Cantidad de variables: 14 Iteracion: 86;4.208032539;0.009514319;0.708333333
+Cantidad de variables: 14 Iteracion: 87;4.665217404;-0.087246399;0.708333333
+Cantidad de variables: 14 Iteracion: 88;4.417390967;-0.046422305;0.708333333
+Cantidad de variables: 14 Iteracion: 89;4.288035039;-0.007579049;0.708333333
+Cantidad de variables: 14 Iteracion: 90;4.150409574;0.029951339;0.708333333
+Cantidad de variables: 14 Iteracion: 91;4.774756764;-0.117177533;0.708333333
+Cantidad de variables: 14 Iteracion: 92;4.128217516;0.011312846;0.666666667
+Cantidad de variables: 14 Iteracion: 93;4.127916564;0.02888169;0.666666667
+Cantidad de variables: 14 Iteracion: 94;4.32827331;-0.015889573;0.708333333
+Cantidad de variables: 14 Iteracion: 95;4.21754798;-0.006256491;0.708333333
+Cantidad de variables: 14 Iteracion: 96;4.137273973;0.017676622;0.708333333
+Cantidad de variables: 14 Iteracion: 97;4.536486578;-0.070559837;0.708333333
+Cantidad de variables: 14 Iteracion: 98;4.206218371;0.019829396;0.708333333
+Cantidad de variables: 14 Iteracion: 99;4.077547075;0.051939781;0.708333333
+Lasso alpha: 0.1 Iteracion: 1;4.604883214;-0.061854281;0.708333333
+Lasso alpha: 0.1 Iteracion: 2;3.827116471;0.105831404;0.708333333
+Lasso alpha: 0.1 Iteracion: 3;4.269768051;-0.012768766;0.666666667
+Lasso alpha: 0.1 Iteracion: 4;4.256994328;-0.001352391;0.708333333
+Lasso alpha: 0.1 Iteracion: 5;4.03145976;0.055804181;0.708333333
+Lasso alpha: 0.1 Iteracion: 6;4.04211412;0.02569839;0.708333333
+Lasso alpha: 0.1 Iteracion: 7;4.128540725;0.020054642;0.708333333
+Lasso alpha: 0.1 Iteracion: 8;3.99174225;0.068518605;0.708333333
+Lasso alpha: 0.1 Iteracion: 9;4.138071394;0.020377292;0.708333333
+Lasso alpha: 0.1 Iteracion: 10;4.059034362;0.053187582;0.708333333
+Lasso alpha: 0.1 Iteracion: 11;4.337698013;-0.022749179;0.708333333
+Lasso alpha: 0.1 Iteracion: 12;4.114753756;0.056497128;0.708333333
+Lasso alpha: 0.1 Iteracion: 13;4.361526004;-0.016210802;0.708333333
+Lasso alpha: 0.1 Iteracion: 14;4.303839486;-0.002745665;0.708333333
+Lasso alpha: 0.1 Iteracion: 15;4.017296662;0.077933183;0.708333333
+Lasso alpha: 0.1 Iteracion: 16;4.807329568;-0.135322206;0.666666667
+Lasso alpha: 0.1 Iteracion: 17;4.245636454;0.000154249;0.708333333
+Lasso alpha: 0.1 Iteracion: 18;3.920752541;0.089307109;0.708333333
+Lasso alpha: 0.1 Iteracion: 19;4.117189994;0.060798543;0.708333333
+Lasso alpha: 0.1 Iteracion: 20;4.015793893;0.05931975;0.708333333
+Lasso alpha: 0.1 Iteracion: 21;4.667412507;-0.087541296;0.708333333
+Lasso alpha: 0.1 Iteracion: 22;4.206080122;0.008197229;0.708333333
+Lasso alpha: 0.1 Iteracion: 23;4.151190326;0.032615553;0.708333333
+Lasso alpha: 0.1 Iteracion: 24;4.248569529;0.019846642;0.666666667
+Lasso alpha: 0.1 Iteracion: 25;4.087893287;0.046482331;0.708333333
+Lasso alpha: 0.1 Iteracion: 26;4.525023705;-0.043259898;0.666666667
+Lasso alpha: 0.1 Iteracion: 27;4.159126119;0.025405096;0.708333333
+Lasso alpha: 0.1 Iteracion: 28;4.28911581;0.016612194;0.708333333
+Lasso alpha: 0.1 Iteracion: 29;4.142483712;0.047027683;0.708333333
+Lasso alpha: 0.1 Iteracion: 30;4.300929253;0.010248503;0.708333333
+Lasso alpha: 0.1 Iteracion: 31;4.128962451;0.039779;0.708333333
+Lasso alpha: 0.1 Iteracion: 32;4.593853128;-0.092327756;0.708333333
+Lasso alpha: 0.1 Iteracion: 33;4.060431051;0.048350934;0.708333333
+Lasso alpha: 0.1 Iteracion: 34;4.389119416;-0.029662535;0.708333333
+Lasso alpha: 0.1 Iteracion: 35;4.428912308;-0.015928707;0.708333333
+Lasso alpha: 0.1 Iteracion: 36;4.20939991;0.025449713;0.708333333
+Lasso alpha: 0.1 Iteracion: 37;4.162509462;0.027956559;0.708333333
+Lasso alpha: 0.1 Iteracion: 38;4.054083661;0.061034757;0.708333333
+Lasso alpha: 0.1 Iteracion: 40;4.040771096;0.054304775;0.708333333
+Lasso alpha: 0.1 Iteracion: 41;4.638351248;-0.09665829;0.708333333
+Lasso alpha: 0.1 Iteracion: 42;4.33108041;0.003640873;0.708333333
+Lasso alpha: 0.1 Iteracion: 43;4.36122789;-0.030116937;0.666666667
+Lasso alpha: 0.1 Iteracion: 44;4.879814652;-0.119127787;0.708333333
+Lasso alpha: 0.1 Iteracion: 45;4.945866352;-0.140021066;0.666666667
+Lasso alpha: 0.1 Iteracion: 46;4.328953333;-0.01524733;0.708333333
+Lasso alpha: 0.1 Iteracion: 47;4.043486544;0.061723586;0.708333333
+Lasso alpha: 0.1 Iteracion: 48;4.125942815;0.054869816;0.708333333
+Lasso alpha: 0.1 Iteracion: 49;4.297604884;0.003195152;0.708333333
+Lasso alpha: 0.1 Iteracion: 50;4.175463477;0.019316353;0.708333333
+Lasso alpha: 0.1 Iteracion: 51;3.876929063;0.105958146;0.708333333
+Lasso alpha: 0.1 Iteracion: 52;3.970407434;0.058899108;0.708333333
+Lasso alpha: 0.1 Iteracion: 53;4.383521095;-0.033851347;0.666666667
+Lasso alpha: 0.1 Iteracion: 54;4.282613599;0.011847411;0.708333333
+Lasso alpha: 0.1 Iteracion: 55;4.457502449;-0.036708226;0.708333333
+Lasso alpha: 0.1 Iteracion: 56;4.177668629;0.039983947;0.708333333
+Lasso alpha: 0.1 Iteracion: 57;4.384531751;-0.001813538;0.708333333
+Lasso alpha: 0.1 Iteracion: 58;4.115080319;0.045682086;0.708333333
+Lasso alpha: 0.1 Iteracion: 59;4.181121813;0.028981806;0.708333333
+Lasso alpha: 0.1 Iteracion: 60;4.090097859;0.064555316;0.708333333
+Lasso alpha: 0.1 Iteracion: 61;4.428185803;-0.029212869;0.666666667
+Lasso alpha: 0.1 Iteracion: 62;4.065871943;0.03686198;0.708333333
+Lasso alpha: 0.1 Iteracion: 63;4.120982501;0.037684079;0.708333333
+Lasso alpha: 0.1 Iteracion: 64;4.345217031;-0.008518464;0.708333333
+Lasso alpha: 0.1 Iteracion: 65;4.058656246;0.073059008;0.708333333
+Lasso alpha: 0.1 Iteracion: 66;4.528929562;-0.061875476;0.708333333
+Lasso alpha: 0.1 Iteracion: 67;4.107455103;0.040327446;0.708333333
+Lasso alpha: 0.1 Iteracion: 68;4.460025584;0.010024134;0.666666667
+Lasso alpha: 0.1 Iteracion: 69;4.639127901;-0.085513841;0.708333333
+Lasso alpha: 0.1 Iteracion: 70;4.176827037;0.027947702;0.708333333
+Lasso alpha: 0.1 Iteracion: 71;4.057706931;0.049935568;0.708333333
+Lasso alpha: 0.1 Iteracion: 72;3.958933433;0.055762764;0.708333333
+Lasso alpha: 0.1 Iteracion: 73;3.999915249;0.083663804;0.708333333
+Lasso alpha: 0.1 Iteracion: 74;4.02218548;0.066505254;0.708333333
+Lasso alpha: 0.1 Iteracion: 75;4.36779962;-0.007076521;0.708333333
+Lasso alpha: 0.1 Iteracion: 76;4.12479755;0.020910008;0.708333333
+Lasso alpha: 0.1 Iteracion: 77;4.516641382;-0.056881945;0.666666667
+Lasso alpha: 0.1 Iteracion: 78;4.230826203;0.006466661;0.708333333
+Lasso alpha: 0.1 Iteracion: 79;4.070786724;0.052743733;0.708333333
+Lasso alpha: 0.1 Iteracion: 80;3.982268676;0.058647108;0.708333333
+Lasso alpha: 0.1 Iteracion: 81;3.92823619;0.096302779;0.708333333
+Lasso alpha: 0.1 Iteracion: 82;4.186577171;0.021256782;0.708333333
+Lasso alpha: 0.1 Iteracion: 83;4.4171076;-0.031740536;0.708333333
+Lasso alpha: 0.1 Iteracion: 84;4.499661212;-0.05067955;0.708333333
+Lasso alpha: 0.1 Iteracion: 85;4.018429612;0.057327652;0.708333333
+Lasso alpha: 0.1 Iteracion: 86;4.891113229;-0.124913214;0.666666667
+Lasso alpha: 0.1 Iteracion: 87;4.066830506;0.069916569;0.708333333
+Lasso alpha: 0.1 Iteracion: 88;4.48592694;-0.045149401;0.708333333
+Lasso alpha: 0.1 Iteracion: 89;4.261204916;0.001670433;0.666666667
+Lasso alpha: 0.1 Iteracion: 90;4.056434077;0.054891062;0.708333333
+Lasso alpha: 0.1 Iteracion: 91;4.166150358;0.025151869;0.708333333
+Lasso alpha: 0.1 Iteracion: 92;4.228334653;0.020440529;0.708333333
+Lasso alpha: 0.1 Iteracion: 93;3.970102783;0.071395032;0.708333333
+Lasso alpha: 0.1 Iteracion: 94;4.248965881;-0.015594663;0.708333333
+Lasso alpha: 0.1 Iteracion: 95;4.340116501;-0.033522861;0.708333333
+Lasso alpha: 0.1 Iteracion: 96;4.244707043;-0.011453743;0.708333333
+Lasso alpha: 0.1 Iteracion: 97;4.165482842;0.021766818;0.708333333
+Lasso alpha: 0.1 Iteracion: 98;4.364461693;-0.035088521;0.708333333
+Lasso alpha: 0.1 Iteracion: 99;3.824093544;0.104825313;0.708333333
+Lasso alpha: 0.2 Iteracion: 1;3.828070099;0.103631412;0.708333333
+Lasso alpha: 0.2 Iteracion: 2;3.869688;0.108480044;0.708333333
+Lasso alpha: 0.2 Iteracion: 3;4.047164216;0.073725534;0.708333333
+Lasso alpha: 0.2 Iteracion: 4;3.864762212;0.100412785;0.708333333
+Lasso alpha: 0.2 Iteracion: 5;4.087432089;0.038189094;0.708333333
+Lasso alpha: 0.2 Iteracion: 6;3.900448878;0.085140939;0.708333333
+Lasso alpha: 0.2 Iteracion: 7;3.856154161;0.105337716;0.708333333
+Lasso alpha: 0.2 Iteracion: 8;3.912181085;0.10746356;0.708333333
+Lasso alpha: 0.2 Iteracion: 9;3.749036321;0.116630027;0.708333333
+Lasso alpha: 0.2 Iteracion: 10;4.049568883;0.076639045;0.708333333
+Lasso alpha: 0.2 Iteracion: 11;3.838360163;0.101202929;0.708333333
+Lasso alpha: 0.2 Iteracion: 12;4.012893064;0.059336561;0.708333333
+Lasso alpha: 0.2 Iteracion: 13;3.975528659;0.051754999;0.708333333
+Lasso alpha: 0.2 Iteracion: 14;4.158252697;0.026950511;0.708333333
+Lasso alpha: 0.2 Iteracion: 15;3.798400944;0.097871891;0.708333333
+Lasso alpha: 0.2 Iteracion: 16;3.769298926;0.109739917;0.708333333
+Lasso alpha: 0.2 Iteracion: 17;3.863527214;0.111253594;0.708333333
+Lasso alpha: 0.2 Iteracion: 18;3.832903683;0.106481364;0.75
+Lasso alpha: 0.2 Iteracion: 19;3.770566703;0.11572656;0.708333333
+Lasso alpha: 0.2 Iteracion: 20;4.249413468;0.021879581;0.666666667
+Lasso alpha: 0.2 Iteracion: 21;3.753897407;0.112507143;0.708333333
+Lasso alpha: 0.2 Iteracion: 22;3.842815155;0.091904114;0.708333333
+Lasso alpha: 0.2 Iteracion: 23;3.917813738;0.08259954;0.708333333
+Lasso alpha: 0.2 Iteracion: 24;3.970075761;0.071865277;0.708333333
+Lasso alpha: 0.2 Iteracion: 25;3.919316891;0.087397546;0.708333333
+Lasso alpha: 0.2 Iteracion: 26;3.803017385;0.109980505;0.708333333
+Lasso alpha: 0.2 Iteracion: 27;3.933912981;0.062362058;0.708333333
+Lasso alpha: 0.2 Iteracion: 28;3.999466306;0.050206345;0.708333333
+Lasso alpha: 0.2 Iteracion: 29;3.836278709;0.094151213;0.708333333
+Lasso alpha: 0.2 Iteracion: 30;3.85604019;0.102464339;0.708333333
+Lasso alpha: 0.2 Iteracion: 31;3.822596733;0.109105108;0.708333333
+Lasso alpha: 0.2 Iteracion: 32;3.732906511;0.128801512;0.708333333
+Lasso alpha: 0.2 Iteracion: 33;3.925513135;0.084845943;0.708333333
+Lasso alpha: 0.2 Iteracion: 34;3.920343803;0.086180364;0.708333333
+Lasso alpha: 0.2 Iteracion: 35;3.752833284;0.120850161;0.708333333
+Lasso alpha: 0.2 Iteracion: 36;3.940706545;0.087787244;0.708333333
+Lasso alpha: 0.2 Iteracion: 37;4.008116059;0.064018633;0.708333333
+Lasso alpha: 0.2 Iteracion: 38;3.919039794;0.086292211;0.708333333
+Lasso alpha: 0.2 Iteracion: 39;3.829916384;0.110480208;0.708333333
+Lasso alpha: 0.2 Iteracion: 40;3.901462773;0.082723712;0.708333333
+Lasso alpha: 0.2 Iteracion: 41;3.855310551;0.10670083;0.708333333
+Lasso alpha: 0.2 Iteracion: 42;3.726972341;0.123767813;0.75
+Lasso alpha: 0.2 Iteracion: 44;4.012987435;0.083738835;0.708333333
+Lasso alpha: 0.2 Iteracion: 45;3.814530771;0.119529931;0.708333333
+Lasso alpha: 0.2 Iteracion: 46;3.925040379;0.087400225;0.708333333
+Lasso alpha: 0.2 Iteracion: 47;3.944962901;0.085065767;0.708333333
+Lasso alpha: 0.2 Iteracion: 49;3.739999401;0.110012181;0.708333333
+Lasso alpha: 0.2 Iteracion: 50;3.905154455;0.076404944;0.708333333
+Lasso alpha: 0.2 Iteracion: 51;4.09364189;0.044312461;0.708333333
+Lasso alpha: 0.2 Iteracion: 52;3.828834492;0.11143141;0.708333333
+Lasso alpha: 0.2 Iteracion: 53;4.068853467;0.055091152;0.708333333
+Lasso alpha: 0.2 Iteracion: 54;4.024844056;0.06471434;0.708333333
+Lasso alpha: 0.2 Iteracion: 56;3.951472874;0.079133198;0.708333333
+Lasso alpha: 0.2 Iteracion: 57;4.045715666;0.059793527;0.708333333
+Lasso alpha: 0.2 Iteracion: 58;3.972970371;0.068785939;0.708333333
+Lasso alpha: 0.2 Iteracion: 60;3.832658002;0.112694302;0.708333333
+Lasso alpha: 0.2 Iteracion: 62;3.841495914;0.102327123;0.75
+Lasso alpha: 0.2 Iteracion: 63;3.993855975;0.06985061;0.708333333
+Lasso alpha: 0.2 Iteracion: 64;4.260827107;0.013912664;0.708333333
+Lasso alpha: 0.2 Iteracion: 65;4.123739843;0.048850279;0.708333333
+Lasso alpha: 0.2 Iteracion: 66;4.093988394;0.050905485;0.75
+Lasso alpha: 0.2 Iteracion: 67;4.023655165;0.066690213;0.708333333
+Lasso alpha: 0.2 Iteracion: 68;3.997636255;0.075315715;0.708333333
+Lasso alpha: 0.2 Iteracion: 70;4.055697357;0.051556454;0.708333333
+Lasso alpha: 0.2 Iteracion: 71;3.956459318;0.073992697;0.708333333
+Lasso alpha: 0.2 Iteracion: 72;4.016021072;0.054085455;0.708333333
+Lasso alpha: 0.2 Iteracion: 73;3.877339112;0.091213974;0.708333333
+Lasso alpha: 0.2 Iteracion: 74;4.107799075;0.064561274;0.708333333
+Lasso alpha: 0.2 Iteracion: 75;3.770404636;0.121385286;0.75
+Lasso alpha: 0.2 Iteracion: 77;3.963728041;0.077001473;0.708333333
+Lasso alpha: 0.2 Iteracion: 78;3.875780093;0.102962253;0.708333333
+Lasso alpha: 0.2 Iteracion: 79;3.958736682;0.081206332;0.708333333
+Lasso alpha: 0.2 Iteracion: 80;4.047977244;0.04063483;0.708333333
+Lasso alpha: 0.2 Iteracion: 81;4.154755901;0.032721526;0.75
+Lasso alpha: 0.2 Iteracion: 82;3.894177371;0.072267478;0.708333333
+Lasso alpha: 0.2 Iteracion: 83;3.941931805;0.086130043;0.708333333
+Lasso alpha: 0.2 Iteracion: 84;3.788248963;0.109414308;0.708333333
+Lasso alpha: 0.2 Iteracion: 85;3.802237285;0.097424568;0.708333333
+Lasso alpha: 0.2 Iteracion: 86;4.007312876;0.051504121;0.708333333
+Lasso alpha: 0.2 Iteracion: 87;3.820217786;0.092898141;0.75
+Lasso alpha: 0.2 Iteracion: 88;4.125149875;0.049896636;0.708333333
+Lasso alpha: 0.2 Iteracion: 90;3.948693898;0.084136335;0.75
+Lasso alpha: 0.2 Iteracion: 91;4.031550494;0.078719427;0.708333333
+Lasso alpha: 0.2 Iteracion: 92;3.837917819;0.08592524;0.708333333
+Lasso alpha: 0.2 Iteracion: 93;3.971261912;0.068928696;0.708333333
+Lasso alpha: 0.2 Iteracion: 94;3.986717926;0.066469813;0.708333333
+Lasso alpha: 0.2 Iteracion: 95;3.851357543;0.109038627;0.708333333
+Lasso alpha: 0.2 Iteracion: 96;4.12859391;0.032570746;0.708333333
+Lasso alpha: 0.2 Iteracion: 97;3.880283925;0.116637975;0.708333333
+Lasso alpha: 0.2 Iteracion: 98;3.964345634;0.087267254;0.708333333
+Lasso alpha: 0.2 Iteracion: 99;3.810575464;0.119528414;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 1;3.85140323;0.070886285;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 7;3.864517211;0.091075948;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 8;3.839372601;0.102381733;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 9;4.036790727;0.077344961;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 11;3.792190046;0.117591922;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 12;3.766357912;0.112576641;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 13;4.009082169;0.069645837;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 14;3.959607641;0.057795779;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 15;3.770245416;0.097408482;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 17;3.882530032;0.079307227;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 21;3.802093748;0.124139597;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 24;3.896190883;0.09477894;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 25;3.952754911;0.054263333;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 26;4.155246798;0.071107414;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 27;3.96213862;0.082453204;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 28;3.833001695;0.1210012;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 29;3.812469542;0.09671294;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 34;3.952627482;0.096343447;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 35;4.000097904;0.076901775;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 36;3.76866827;0.115322128;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 40;3.802988395;0.102356343;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 41;3.869393977;0.106636032;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 42;4.022390093;0.060262152;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 43;3.834176059;0.099792403;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 44;3.84621134;0.102071566;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 45;3.845886063;0.09050495;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 48;3.938818411;0.103644669;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 50;3.921128531;0.083045626;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 51;3.777360836;0.11035554;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 52;3.924182751;0.081758807;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 53;3.807901094;0.100866187;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 54;4.074583645;0.058354939;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 55;3.921096003;0.072986405;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 57;3.71289095;0.117844705;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 58;4.009486701;0.075948805;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 59;3.863797238;0.094898412;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 62;3.810168927;0.112045189;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 65;3.736971325;0.12668999;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 66;4.276780887;0.016468129;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 71;3.942394296;0.085220261;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 73;3.862775457;0.116008;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 76;3.801140241;0.097811447;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 78;3.862329181;0.099472581;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 79;3.833088876;0.092763023;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 80;3.812108253;0.107196549;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 85;3.920260637;0.105714061;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 86;3.861105284;0.103257538;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 87;3.870898104;0.07742592;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 90;3.834866664;0.114137204;0.708333333
+Lasso alpha: 0.30000000000000004 Iteracion: 92;3.93890888;0.074851749;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 96;3.890201085;0.10772001;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 97;4.181723324;0.02551348;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 98;3.963225093;0.078110833;0.75
+Lasso alpha: 0.30000000000000004 Iteracion: 99;3.782489585;0.097908167;0.75
+Lasso alpha: 0.4 Iteracion: 4;3.951703603;0.067844378;0.75
+Lasso alpha: 0.4 Iteracion: 5;3.835313414;0.090701365;0.708333333
+Lasso alpha: 0.4 Iteracion: 6;3.967092843;0.093873418;0.75
+Lasso alpha: 0.4 Iteracion: 9;4.027656948;0.041859523;0.708333333
+Lasso alpha: 0.4 Iteracion: 10;3.850455078;0.105952057;0.75
+Lasso alpha: 0.4 Iteracion: 11;3.827921394;0.101399151;0.75
+Lasso alpha: 0.4 Iteracion: 18;4.087826289;0.023548198;0.75
+Lasso alpha: 0.4 Iteracion: 36;4.126326812;0.051352736;0.75
+Lasso alpha: 0.4 Iteracion: 43;4.202871035;0.030197605;0.75
+Lasso alpha: 0.4 Iteracion: 65;4.158972373;0.031479596;0.75
+Lasso alpha: 0.4 Iteracion: 66;4.10213538;0.056675411;0.75
+Lasso alpha: 0.4 Iteracion: 71;3.917570351;0.070677942;0.708333333
+Lasso alpha: 0.4 Iteracion: 76;4.08276671;0.048620952;0.75
+Lasso alpha: 0.4 Iteracion: 77;4.074646345;0.060547958;0.75
+Lasso alpha: 0.4 Iteracion: 84;3.932030298;0.112385315;0.708333333
+Lasso alpha: 0.4 Iteracion: 86;4.000766193;0.06834797;0.708333333
+Lasso alpha: 0.4 Iteracion: 91;3.820387101;0.092227101;0.708333333
+Lasso alpha: 0.4 Iteracion: 95;3.870178848;0.098987628;0.75
+Lasso alpha: 0.4 Iteracion: 98;4.043576534;0.050818257;0.75
+Lasso alpha: 0.4 Iteracion: 99;3.945587862;0.08322283;0.75
+Lasso alpha: 0.5 Iteracion: 14;;;
+Lasso alpha: 0.5 Iteracion: 15;3.880060972;0.091434792;0.75
+Lasso alpha: 0.5 Iteracion: 54;4.118447396;0.015694542;0.75
+Lasso alpha: 0.5 Iteracion: 81;4.296329386;-0.012691122;0.75
+Lasso alpha: 0.5 Iteracion: 91;4.526343931;-0.040484637;0.75
+Modelo Diana 2;4.057393602;0.042538425;0.75
