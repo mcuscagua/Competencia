@@ -36,7 +36,7 @@ Y 7 archivos csv:
 7.20190924 ResultadosCV_scores
 
 ## Modelo Conteo
-En la carpeta carpeta continua hay 4 notebooks:
+En la carpeta carpeta Count hay 4 notebooks:
 
 1. Selección de Variables - Sistema de Votación por Modelos: Se implementa la función SelectFromModel de sklearn para encontrar las variables más relevantes a partir de la importancia de los pesos dados por el modelo a cada variable.
 2. Selección de variables - Exploración Aleatoria: Donde se evalúan 2 millones de combinaciones diferentes para la selección de los regresores.
