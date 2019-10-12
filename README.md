@@ -1,6 +1,8 @@
 # Competencia
 Competencia de Métodos Estadísticos Avanzados.
 
+## Modelo Binario
+
 ## Modelo Continuo
 En la carpeta carpeta continua hay 4 notebooks:
 
