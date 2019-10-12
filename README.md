@@ -34,3 +34,20 @@ Y 7 archivos csv:
 5. datasetx
 6. variablesToProof
 7.20190924 ResultadosCV_scores
+
+## Modelo Conteo
+En la carpeta carpeta continua hay 4 notebooks:
+
+1. Selección de Variables - Sistema de Votación por Modelos: Se implementa la función SelectFromModel de sklearn para encontrar las variables más relevantes a partir de la importancia de los pesos dados por el modelo a cada variable.
+2. Selección de variables - Exploración Aleatoria: Donde se evalúan 2 millones de combinaciones diferentes para la selección de los regresores.
+3. Selección del modelo: se exploran los algoritmos usando las variables seleccionadas en la búsqueda aleatoria.
+4. TestModelSelected: Aquí se hace una revisión de la estabilidad del XGBoost con diferentes conjuntos de variables con resultados similares a las seleccionadas para revisar la estabilidad. 
+
+4 archivos csv:
+
+1. count_test
+2. count_train
+3. datasetx
+4. datacountstudents
+
+Y el archivo modelCount.sav contiene el modelo entrenado.
