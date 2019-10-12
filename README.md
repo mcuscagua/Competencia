@@ -3,6 +3,20 @@ Competencia de Métodos Estadísticos Avanzados.
 
 ## Modelo Binario
 
+En la carpeta binaria hay 4 notebooks:
+
+1.	Binary_set feauture selection: donde se realiza el análisis descriptivo y la selección de variables.
+2.	Gridsearch3: se utiliza para la selección de modelos
+3.	TestModelSelected: y aqui finalmente de hace el grid search y se corre 500 veces cada conjunto y finalmente se escribe el archivo 20191011_ResultadosCV_scores con el que finalmente se toman las decisiones
+4.	Model_Predict vf: En este archivo se ingresa la bd de registros desconocidos para realizar la predicción.
+
+Y 7 archivos csv:
+1.	Databinarystudents
+2.	datasetx
+3.	salida_bin (predicción de “yL” y probabilidades)
+
+
+
 ## Modelo Continuo
 En la carpeta carpeta continua hay 4 notebooks:
 
